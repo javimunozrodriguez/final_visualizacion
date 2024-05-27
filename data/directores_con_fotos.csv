@@ -1,0 +1,638 @@
+﻿Director,Nombre,Nota media,Total de películas,Productora habitual,Beneficio total,Mejor filme,Nota
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/MKr25402_Steven_Spielberg_%28Berlinale_2023%29.jpg/220px-MKr25402_Steven_Spielberg_%28Berlinale_2023%29.jpg),Steven Spielberg,7.383333333333333,24,Dreamworks Pictures,6278105574,Schindler's List,8.9
+![](https://m.media-amazon.com/images/M/MV5BMTc2NjM5MTM0Ml5BMl5BanBnXkFtZTgwMTY3ODczNjM@._V1_.jpg),Anthony Russo,7.58,5,Marvel Studios,5693248984,Avengers: Infinity War,8.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/James_Cameron_by_Gage_Skidmore.jpg/220px-James_Cameron_by_Gage_Skidmore.jpg),James Cameron,7.85,6,Twentieth Century Fox,5427217378,Terminator 2: Judgment Day,8.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Peter_Jackson_SDCC_2014.jpg/220px-Peter_Jackson_SDCC_2014.jpg),Peter Jackson,7.745454545454545,11,New Line Cinema,5372045788,The Lord of the Rings: The Return of the King,8.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/David_Yates_by_Gage_Skidmore.jpg/220px-David_Yates_by_Gage_Skidmore.jpg),David Yates,7.271428571428571,7,Warner Bros.,4936591899,Harry Potter and the Deathly Hallows: Part 2,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Michael.bay.png/220px-Michael.bay.png),Michael Bay,6.484615384615385,13,Paramount Pictures,4773692798,The Rock,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Christopher_Nolan_Cannes_2018.jpg/220px-Christopher_Nolan_Cannes_2018.jpg),Christopher Nolan,8.222222222222221,9,Warner Bros.,3653838246,The Dark Knight,9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Chris_Columbus.jpg/734px-Chris_Columbus.jpg),Chris Columbus,6.6230769230769235,13,Twentieth Century Fox,3408414161,Home Alone,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/J._J._Abrams_by_Gage_Skidmore.jpg/220px-J._J._Abrams_by_Gage_Skidmore.jpg),J.J. Abrams,7.36,5,Paramount Pictures,3389279478,Star Trek,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jon_Favreau_2016.jpeg/220px-Jon_Favreau_2016.jpeg),Jon Favreau,6.9,9,Paramount Pictures,3312675953,Iron Man,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/James_Wan_in_2019.jpg/220px-James_Wan_in_2019.jpg),James Wan,6.966666666666667,9,FilmDistrict,3252951018,Saw,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Robert_Zemeckis_%22The_Walk%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2821835891403%29_%28cropped%29.jpg/220px-Robert_Zemeckis_%22The_Walk%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2821835891403%29_%28cropped%29.jpg),Robert Zemeckis,7.2625,16,Universal Pictures,2936141586,Forrest Gump,8.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Tim_Burton_%287587109150%29.jpg/220px-Tim_Burton_%287587109150%29.jpg),Tim Burton,6.966666666666667,18,Warner Bros.,2917277388,Big Fish,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Frozenfeverdirectors_%28cropped%29.JPG/220px-Frozenfeverdirectors_%28cropped%29.JPG),Chris Buck,7.166666666666667,3,Walt Disney Animation Studios,2749726852,Frozen,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Independence_Day-_Resurgence_Japan_Premiere-_Roland_Emmerich_%2828502013341%29_CROPPED.jpg/220px-Independence_Day-_Resurgence_Japan_Premiere-_Roland_Emmerich_%2828502013341%29_CROPPED.jpg),Roland Emmerich,6.218181818181818,11,Columbia Pictures,2700662044,The Patriot,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Todd_Phillips_%2829486703114%29.jpg/220px-Todd_Phillips_%2829486703114%29.jpg),Todd Phillips,6.833333333333333,9,Warner Bros.,2689676478,Joker,8.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Francis_Lawrence_by_Gage_Skidmore_2.jpg/220px-Francis_Lawrence_by_Gage_Skidmore_2.jpg),Francis Lawrence,6.914285714285715,7,Lionsgate,2591674910,The Hunger Games: Catching Fire,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Brad_bird_cropped_2009.jpg/220px-Brad_bird_cropped_2009.jpg),Brad Bird,7.566666666666666,6,Walt Disney Pictures,2579901800,The Iron Giant,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Brian_Singer_%22International_Competition_Jury%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2822427114066%29_%28cropped%29.jpg/220px-Brian_Singer_%22International_Competition_Jury%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2822427114066%29_%28cropped%29.jpg),Bryan Singer,7.2,10,Twentieth Century Fox,2553452604,The Usual Suspects,8.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Verbinski_gore.jpg/220px-Verbinski_gore.jpg),Gore Verbinski,6.86,10,Walt Disney Pictures,2533024727,Pirates of the Caribbean: the Curse of the Black Pearl,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Joss_Whedon_by_Gage_Skidmore_8.jpg/220px-Joss_Whedon_by_Gage_Skidmore_8.jpg),Joss Whedon,7.55,4,Marvel Studios,2458411405,The Avengers,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Carlos_Saldanha_2017.jpg/220px-Carlos_Saldanha_2017.jpg),Carlos Saldanha,6.72,5,Twentieth Century Fox Animation,2358498157,Ice Age: Dawn of the Dinosaurs,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sam_Mendes_in_2022-2.jpg/220px-Sam_Mendes_in_2022-2.jpg),Sam Mendes,7.5125,8,Dreamworks Pictures,2341009463,American Beauty,8.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/M._Night_Shyamalan_%2828769148857%29_%28cropped_2%29.jpg/220px-M._Night_Shyamalan_%2828769148857%29_%28cropped_2%29.jpg),M. Night Shyamalan,6.181818181818182,11,Touchstone Pictures,2330288199,The Sixth Sense,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/NASA_Journey_to_Mars_and_%E2%80%9CThe_Martian%E2%80%9D_%28201508180030HQ%29.jpg/220px-NASA_Journey_to_Mars_and_%E2%80%9CThe_Martian%E2%80%9D_%28201508180030HQ%29.jpg),Ridley Scott,6.90952380952381,21,Twentieth Century Fox,2319760267,Gladiator,8.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sam_Raimi_by_Gage_Skidmore_3.jpg/220px-Sam_Raimi_by_Gage_Skidmore_3.jpg),Sam Raimi,6.866666666666667,12,Columbia Pictures,2262477665,Evil Dead II,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/George_Lucas_cropped_2009.jpg/220px-George_Lucas_cropped_2009.jpg),George Lucas,6.833333333333333,3,Lucasfilm,2206253237,Star Wars: Episode III - Revenge of the Sith,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Clint_Eastwood_at_2010_New_York_Film_Festival.jpg/220px-Clint_Eastwood_at_2010_New_York_Film_Festival.jpg),Clint Eastwood,7.062962962962963,27,Warner Bros.,2108320256,Unforgiven,8.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RonHoward2023.jpg/220px-RonHoward2023.jpg),Ron Howard,6.871428571428571,21,Universal Pictures,2087764283,A Beautiful Mind,8.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Andrew_Stanton_cropped_2009.jpg/220px-Andrew_Stanton_cropped_2009.jpg),Andrew Stanton,7.6,4,Pixar Animation Studios,2050374577,WALL·E,8.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zack_Snyder_by_Gage_Skidmore_2.jpg/220px-Zack_Snyder_by_Gage_Skidmore_2.jpg),Zack Snyder,6.8625,8,Warner Bros.,2015205631,300,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Andrew_Adamson_%28cropped%29.jpg),Andrew Adamson,7.125,4,Walt Disney Pictures,1966292773,Shrek,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Jake_Kasdan.jpg/220px-Jake_Kasdan.jpg),Jake Kasdan,6.3,7,Columbia Pictures,1837858331,Zero Effect,6.9
+![](NA),Eric Darnell,6.7,5,DreamWorks Animation,1831158958,Madagascar,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GuyRitchiebyKathyHutchins.jpg/220px-GuyRitchiebyKathyHutchins.jpg),Guy Ritchie,6.98,10,Warner Bros.,1819536216,Snatch,8.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/JohnLasseterOct2011.jpg/220px-JohnLasseterOct2011.jpg),John Lasseter,7.32,5,Pixar Animation Studios,1716915089,Toy Story,8.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Pete_Docter_cropped_2009.jpg/220px-Pete_Docter_cropped_2009.jpg),Pete Docter,8.133333333333333,3,Pixar Animation Studios,1708654859,Up,8.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jon_Watts_by_Gage_Skidmore_2.jpg/220px-Jon_Watts_by_Gage_Skidmore_2.jpg),Jon Watts,6.725,4,Columbia Pictures,1679320181,Spider-Man: Far from Home,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Shawn_Levy_by_Gage_Skidmore_2.jpg/220px-Shawn_Levy_by_Gage_Skidmore_2.jpg),Shawn Levy,6.127272727272727,11,Twentieth Century Fox,1663503062,Real Steel,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Star_Trek_Beyond_Japan_Premiere_Red_Carpet-_Justin_Lin_%2832011084772%29_cropped.jpg/220px-Star_Trek_Beyond_Japan_Premiere_Red_Carpet-_Justin_Lin_%2832011084772%29_cropped.jpg),Justin Lin,6.78,5,Universal Pictures,1637621939,Fast Five,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/F._Gary_Gray_%2821226277825%29.jpg/220px-F._Gary_Gray_%2821226277825%29.jpg),F. Gary Gray,6.76,10,New Line Cinema,1600514316,Straight Outta Compton,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JonTurteltaubHWOFJan2013.jpg/220px-JonTurteltaubHWOFJan2013.jpg),Jon Turteltaub,6.345454545454546,11,Walt Disney Pictures,1596579556,Cool Runnings,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Steven_Soderbergh_in_2009.jpg/220px-Steven_Soderbergh_in_2009.jpg),Steven Soderbergh,6.761111111111111,18,Warner Bros.,1570949296,Ocean's Eleven,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_Colin_Trevorrow_%2842200702315%29_%28cropped%29.jpg/220px-Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_Colin_Trevorrow_%2842200702315%29_%28cropped%29.jpg),Colin Trevorrow,6.866666666666666,3,Double Nickel Entertainment,1518787848,Safety Not Guaranteed,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TheKillerBFILFF051023_%288_of_22%29_%2853255176376%29_%28cropped2%29.jpg/220px-TheKillerBFILFF051023_%288_of_22%29_%2853255176376%29_%28cropped2%29.jpg),David Fincher,7.76,10,Columbia Pictures,1492317821,Fight Club,8.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/RobMarshallApr2011.jpg/220px-RobMarshallApr2011.jpg),Rob Marshall,6.583333333333333,6,BBL Motion Picture Studios,1491186960,Memoirs of a Geisha,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Barry_Sonnenfeld_2012.jpg/220px-Barry_Sonnenfeld_2012.jpg),Barry Sonnenfeld,6.4,10,Columbia Pictures,1491098708,Men in Black,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/220px-Quentin_Tarantino_by_Gage_Skidmore.jpg),Quentin Tarantino,8.1,9,Miramax,1484919160,Pulp Fiction,8.9
+![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Chris_Renaud.jpg),Chris Renaud,6.466666666666667,3,Universal Pictures,1429350240,The Secret Life of Pets,6.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Star_Wars-_The_Last_Jedi_Japan_Premiere_Red_Carpet-_Rian_Johnson_%2838905282292%29_%28cropped%29.jpg/220px-Star_Wars-_The_Last_Jedi_Japan_Premiere_Red_Carpet-_Rian_Johnson_%2838905282292%29_%28cropped%29.jpg),Rian Johnson,7.28,5,Bergman Lustig Productions,1422748389,Knives Out,7.9
+![](NA),Bill Condon,6.225,8,Dreamworks Pictures,1407239640,Gods and Monsters,7.4
+![](NA),Raja Gosnell,5.111111111111111,9,Columbia Pictures,1396724813,Never Been Kissed,6.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dean_DeBlois%28Wiki%29.jpg/220px-Dean_DeBlois%28Wiki%29.jpg),Dean DeBlois,7.675,4,DreamWorks Animation,1396244598,How to Train Your Dragon,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_J._A._Bayona_%28cropped%29_%28cropped%29.jpg/220px-Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_J._A._Bayona_%28cropped%29_%28cropped%29.jpg),J.A. Bayona,7.175,4,MEDIA Programme of the European Union,1376501808,The Impossible,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alfonso_Cuar%C3%B3n_%282013%29_cropped.jpg/220px-Alfonso_Cuar%C3%B3n_%282013%29_cropped.jpg),Alfonso Cuarón,7.6,6,Warner Bros.,1340275994,Harry Potter and the Prisoner of Azkaban,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Mangold_Press_Conference_Logan_Berlinale_2017_03.jpg/220px-James_Mangold_Press_Conference_Logan_Berlinale_2017_03.jpg),James Mangold,7.2555555555555555,9,Twentieth Century Fox,1329951821,Logan,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Christopher_McQuarrie_2022.jpg/220px-Christopher_McQuarrie_2022.jpg),Christopher McQuarrie,7.2,4,Paramount Pictures,1309415601,Mission: Impossible - Fallout,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/David_Leitch_by_Gage_Skidmore_2.jpg/220px-David_Leitch_by_Gage_Skidmore_2.jpg),David Leitch,6.933333333333334,3,Chris Morgan Productions,1305541444,Deadpool 2,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ryan_Coogler_%2836203771036%29_2.jpg/220px-Ryan_Coogler_%2836203771036%29_2.jpg),Ryan Coogler,7.466666666666667,3,Forest Whitaker's Significant Productions,1302651384,Creed,7.6
+![](NA),Mike Mitchell,5.933333333333334,6,DreamWorks Animation,1297776266,The Lego Movie 2: The Second Part,6.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jay_Roach_%282013%29.JPG/220px-Jay_Roach_%282013%29.JPG),Jay Roach,6.588888888888889,9,New Line Cinema,1287326832,Trumbo,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brett_Ratner_2012_Shankbone.JPG/220px-Brett_Ratner_2012_Shankbone.JPG),Brett Ratner,6.52,10,New Line Cinema,1282336624,Red Dragon,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/James_Gunn_%2828557194032%29_%28cropped%29.jpg/220px-James_Gunn_%2828557194032%29_%28cropped%29.jpg),James Gunn,7.2,4,Marvel Studios,1262863752,Guardians of the Galaxy,8
+![](NA),Mike Newell,6.8,8,3 Miles Apart Productions Ltd.,1258780091,Donnie Brasco,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Wachowskis%2C_Fantastic_Fest%2C_Cloud_Atlas.jpg/440px-Wachowskis%2C_Fantastic_Fest%2C_Cloud_Atlas.jpg),Lana Wachowski,6.866666666666666,6,Warner Bros.,1253692856,The Matrix,8.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Peyton_Reed_%28cropped%29.jpg/220px-Peyton_Reed_%28cropped%29.jpg),Peyton Reed,6.533333333333333,6,Beacon Communications,1240813991,Ant-Man,7.3
+![](https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Tony_Scott.jpg/220px-Tony_Scott.jpg),Tony Scott,6.8,15,Paramount Pictures,1236679923,True Romance,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Garry_Marshall_2013_cropped.jpg/220px-Garry_Marshall_2013_cropped.jpg),Garry Marshall,6.207692307692308,13,New Line Cinema,1230304149,Pretty Woman,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gareth_Edwards.jpg/220px-Gareth_Edwards.jpg),Gareth Edwards,6.866666666666667,3,Lucasfilm,1225594227,Rogue One: A Star Wars Story,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Martin_Campbell.jpg/220px-Martin_Campbell.jpg),Martin Campbell,6.56,10,Columbia Pictures,1225489189,Casino Royale,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kenneth_Branagh_at_diff_2015.jpg/220px-Kenneth_Branagh_at_diff_2015.jpg),Kenneth Branagh,6.94,10,Paramount Pictures,1208544677,Hamlet,7.7
+![](NA),Dennis Dugan,5.676923076923077,13,Columbia Pictures,1172214062,Happy Gilmore,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Marc_Webb_by_Gage_Skidmore_2.jpg/220px-Marc_Webb_by_Gage_Skidmore_2.jpg),Marc Webb,7.02,5,Amazon Studios,1128833005,500 Days of Summer,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/4/44/Bourne_3_Premiere_Greengrass.jpg),Paul Greengrass,7.442857142857143,7,Universal Pictures,1127382815,The Bourne Ultimatum,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2016_NAB_Show%27s_The_Future_of_Cinema_Conference%2C_produced_in_partnership_with_SMPTE_%2826717112630%29_%28cropped%29.jpg/220px-2016_NAB_Show%27s_The_Future_of_Cinema_Conference%2C_produced_in_partnership_with_SMPTE_%2826717112630%29_%28cropped%29.jpg),Ang Lee,7.133333333333334,12,Ang Lee Productions,1120866435,Life of Pi,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Genndy_Tartakovsky_2018.jpg/220px-Genndy_Tartakovsky_2018.jpg),Genndy Tartakovsky,6.7,3,Columbia Pictures,1116759377,Hotel Transylvania,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Shane_Black_by_Gage_Skidmore.jpg/220px-Shane_Black_by_Gage_Skidmore.jpg),Shane Black,6.825,4,Warner Bros.,1100926752,Kiss Kiss Bang Bang,7.5
+![](NA),Tom Shadyac,6.3428571428571425,7,Universal Pictures,1077538930,Ace Ventura: Pet Detective,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Matt_Reeves_%2813948765595%29_%28cropped%29.jpg/220px-Matt_Reeves_%2813948765595%29_%28cropped%29.jpg),Matt Reeves,7.275,4,Chernin Entertainment,1035852101,Dawn of the Planet of the Apes,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hayao_Miyazaki_cropped_1_Hayao_Miyazaki_201211.jpg/220px-Hayao_Miyazaki_cropped_1_Hayao_Miyazaki_201211.jpg),Hayao Miyazaki,8.15,6,Studio Ghibli,1022686240,Spirited Away,8.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wolfgang_Petersen_-_Poseidon_Premiere_%28cropped%29.jpg/220px-Wolfgang_Petersen_-_Poseidon_Premiere_%28cropped%29.jpg),Wolfgang Petersen,6.642857142857143,7,Warner Bros.,1012119651,In the Line of Fire,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Paul_W._S._Anderson_by_Gage_Skidmore.jpg/220px-Paul_W._S._Anderson_by_Gage_Skidmore.jpg),Paul W.S. Anderson,5.909090909090909,11,Screen Gems,1006626342,Event Horizon,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nancy_Meyers_headshot.jpg/220px-Nancy_Meyers_headshot.jpg),Nancy Meyers,6.7,6,Columbia Pictures,996067565,The Intern,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Matthew_Vaughn_%2848017198166%29_CROPPED.jpg/220px-Matthew_Vaughn_%2848017198166%29_CROPPED.jpg),Matthew Vaughn,7.433333333333334,6,Twentieth Century Fox,978425155,X-Men: First Class,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Marc_Forster_Cannes_2013.jpg/220px-Marc_Forster_Cannes_2013.jpg),Marc Forster,6.97,10,2DUX²,976607672,Finding Neverland,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ruben_Fleischer_by_Gage_Skidmore.jpg/220px-Ruben_Fleischer_by_Gage_Skidmore.jpg),Ruben Fleischer,6.76,5,Columbia Pictures,973551165,Zombieland,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Doug_Liman_2011_Shankbone.JPG/220px-Doug_Liman_2011_Shankbone.JPG),Doug Liman,7,9,Amazon Studios,969952568,The Bourne Identity,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Chris_Weitz.jpg/220px-Chris_Weitz.jpg),Chris Weitz,5.9799999999999995,5,3 Arts Entertainment,969608401,About a Boy,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mel_Gibson_Cannes_2016_2.jpg/220px-Mel_Gibson_Cannes_2016_2.jpg),Mel Gibson,7.62,5,Icon Entertainment International,969267923,Braveheart,8.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jon_M._Chu_2013.jpg/220px-Jon_M._Chu_2013.jpg),Jon M. Chu,6.32,5,Summit Entertainment,961957700,Crazy Rich Asians,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ryan-fleck-anne-boden.jpg/220px-Ryan-fleck-anne-boden.jpg),Anna Boden,6.766666666666667,3,Focus Features,961376958,It's Kind of a Funny Story,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ron_Clements_2.jpg/220px-Ron_Clements_2.jpg),Ron Clements,7.4399999999999995,5,Walt Disney Pictures,947192927,Aladdin,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Joe_Johnston.jpg/220px-Joe_Johnston.jpg),Joe Johnston,6.625,8,Universal Pictures,938340126,October Sky,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brad_Peyton_%2816850222907%29_%28cropped%29.jpg/220px-Brad_Peyton_%2816850222907%29_%28cropped%29.jpg),Brad Peyton,5.824999999999999,4,New Line Cinema,932316413,San Andreas,6.1
+![](NA),Stephen Sommers,6.233333333333333,6,Universal Pictures,931273895,The Mummy,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Scott_Derrickson_by_Gage_Skidmore_2.jpg/220px-Scott_Derrickson_by_Gage_Skidmore_2.jpg),Scott Derrickson,6.54,5,Screen Gems,929509667,Doctor Strange,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Joel_Schumacher_at_Taormina_Film_Fest_2003_%28cropped%29.jpg/220px-Joel_Schumacher_at_Taormina_Film_Fest_2003_%28cropped%29.jpg),Joel Schumacher,6.389473684210526,19,Warner Bros.,925360746,Falling Down,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Richard_Donner_%284505771045%29_%28cropped%29.jpg/220px-Richard_Donner_%284505771045%29_%28cropped%29.jpg),Richard Donner,6.861538461538461,13,Warner Bros.,906548604,The Goonies,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/John_Woo_Cannes_2005.jpg/220px-John_Woo_Cannes_2005.jpg),John Woo,6.4714285714285715,7,Paramount Pictures,893111815,Red Cliff,7.4
+![](https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Joachim_R%C3%B8nning.jpeg/220px-Joachim_R%C3%B8nning.jpeg),Joachim Rønning,6.766666666666667,3,Walt Disney Pictures,877854418,Kon-Tiki,7.2
+![](NA),Gary Ross,7.04,5,Lionsgate,870291292,Pleasantville,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Front_Runner_08_%2844849853362%29_%28cropped%29.jpg/220px-Front_Runner_08_%2844849853362%29_%28cropped%29.jpg),Ivan Reitman,5.963636363636364,11,Universal Pictures,867644098,Dave,6.8
+![](NA),Tim Story,5.877777777777778,9,Twentieth Century Fox,847457482,Think Like a Man,6.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Louis_Leterrier_by_Gage_Skidmore_2.jpg/220px-Louis_Leterrier_by_Gage_Skidmore_2.jpg),Louis Leterrier,6.571428571428571,7,EuropaCorp,838572292,Now You See Me,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Edward_Zwick_2016.jpg/220px-Edward_Zwick_2016.jpg),Edward Zwick,7.0181818181818185,11,TriStar Pictures,838509104,Blood Diamond,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TomHopper10TIFF.jpg/220px-TomHopper10TIFF.jpg),Tom Hooper,7.55,4,Columbia Pictures,836466988,The King's Speech,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Taika_Waititi_by_Gage_Skidmore_2.jpg/220px-Taika_Waititi_by_Gage_Skidmore_2.jpg),Taika Waititi,7.6000000000000005,5,New Zealand Film Commission,819084037,Hunt for the Wilderpeople,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/David_Ayer_by_Gage_Skidmore_2.jpg/220px-David_Ayer_by_Gage_Skidmore_2.jpg),David Ayer,6.75,6,Andrea Sperling Productions,801320650,End of Watch,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bobby_Farrelly_at_the_2009_Tribeca_Film_Festival.jpg/220px-Bobby_Farrelly_at_the_2009_Tribeca_Film_Festival.jpg),Bobby Farrelly,6.090909090909091,11,Twentieth Century Fox,792931759,There's Something About Mary,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jan_de_Bont%2C_premi%C3%A8re-voorstelling_Turks_Fruit_in_Tuschinski%2C_Amsterdam.jpg/220px-Jan_de_Bont%2C_premi%C3%A8re-voorstelling_Turks_Fruit_in_Tuschinski%2C_Amsterdam.jpg),Jan de Bont,5.775,4,Blue Tulip Productions,792526957,Speed,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Wes_Ball_by_Gage_Skidmore.jpg/220px-Wes_Ball_by_Gage_Skidmore.jpg),Wes Ball,6.466666666666667,3,Gotham Group,791791252,The Maze Runner,6.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Robert_Rodriguez_SDCC_2014.jpg/220px-Robert_Rodriguez_SDCC_2014.jpg),Robert Rodriguez,5.775,12,Dimension Films,789122731,Alita: Battle Angel,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/US_Navy_040618-N-6817C-090_Director_Rob_Cohen_visits_with_Commanding_Officer%2C_USS_Abraham_Lincoln_%28CVN_72%29%2C_Capt._Kendall_L._Card%2C_on_the_bridge_after_the_completion_of_filming%2C_the_upcoming_motion_picture_Stealth_%28cropped%29.JPG/220px-thumbnail.jpg),Rob Cohen,5.911111111111111,9,Universal Pictures,781886617,Dragon,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Paul_Feig.jpg/220px-Paul_Feig.jpg),Paul Feig,6.78,5,Twentieth Century Fox,776272639,Spy,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Martin_Scorsese_MFF_2023.jpg/220px-Martin_Scorsese_MFF_2023.jpg),Martin Scorsese,7.6,16,De Fina-Cappa,764106531,Goodfellas,8.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lasse_Hallstr%C3%B6m.jpg/220px-Lasse_Hallstr%C3%B6m.jpg),Lasse Hallström,6.835714285714285,14,Miramax,762147873,What's Eating Gilbert Grape,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Luc_Besson_by_Gage_Skidmore.jpg/220px-Luc_Besson_by_Gage_Skidmore.jpg),Luc Besson,6.945454545454545,11,EuropaCorp,761725857,Léon: The Professional,8.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Danny_Boyle_May_2019.jpg/220px-Danny_Boyle_May_2019.jpg),Danny Boyle,7.216666666666667,12,Channel Four Films,757841599,Trainspotting,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Peter_Berg_by_Gage_Skidmore.jpg/220px-Peter_Berg_by_Gage_Skidmore.jpg),Peter Berg,6.75,10,Universal Pictures,748406961,Lone Survivor,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Adam-shankman.jpg/220px-Adam-shankman.jpg),Adam Shankman,5.8999999999999995,9,New Line Cinema,738007642,A Walk to Remember,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rawson_Marshall_Thurber_2018.jpg/220px-Rawson_Marshall_Thurber_2018.jpg),Rawson Marshall Thurber,6.45,4,New Line Cinema,728258850,We're the Millers,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Olivier_Megaton_at_Taken_3_Premiere.png/220px-Olivier_Megaton_at_Taken_3_Premiere.png),Olivier Megaton,6.2,4,EuropaCorp,720119585,Colombiana,6.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Rob_Letterman%2C_SDCC_2014-2_%28cropped%29.jpg/220px-Rob_Letterman%2C_SDCC_2014-2_%28cropped%29.jpg),Rob Letterman,6.05,4,DreamWorks Animation,716075318,Pokémon Detective Pikachu,6.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Phillip_Noyce_by_Gage_Skidmore.jpg/220px-Phillip_Noyce_by_Gage_Skidmore.jpg),Phillip Noyce,6.572727272727273,11,Columbia Pictures,715288654,Rabbit-Proof Fence,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Andy_Tennant_at_Dallas_International_Film_Festival_2011.jpg/220px-Andy_Tennant_at_Dallas_International_Film_Festival_2011.jpg),Andy Tennant,6.225,8,Columbia Pictures,712739817,Ever After: A Cinderella Story,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Peter_Segal_WonderCon2008.jpg/250px-Peter_Segal_WonderCon2008.jpg),Peter Segal,6.26,10,Paramount Pictures,702585680,Tommy Boy,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/David_F._Sandberg_by_Gage_Skidmore_5.jpg/220px-David_F._Sandberg_by_Gage_Skidmore_5.jpg),David F. Sandberg,6.6,3,New Line Cinema,701456375,Shazam!,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Guillermo_del_Toro_2023_%28cropped%29.jpg/220px-Guillermo_del_Toro_2023_%28cropped%29.jpg),Guillermo del Toro,6.977777777777778,9,Double Dare You (DDY),696737435,Pan's Labyrinth,8.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Seth_MacFarlane_SDCC_2017_%2836524516106%29.jpg/220px-Seth_MacFarlane_SDCC_2017_%2836524516106%29.jpg),Seth MacFarlane,6.433333333333334,3,Universal Pictures,694421677,Ted,6.9
+![](NA),Brian Levant,5.025,8,Universal Pictures,692970374,Beethoven,5.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gary_Trousdale.jpg/220px-Gary_Trousdale.jpg),Gary Trousdale,7.3,3,Walt Disney Animation Studios,691360196,Beauty and the Beast,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Betty_Thomas_%28cropped%29.jpg/220px-Betty_Thomas_%28cropped%29.jpg),Betty Thomas,5.742857142857143,7,Columbia Pictures,690333742,Private Parts,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jonathan_Liebesman_by_Gage_Skidmore.jpg/220px-Jonathan_Liebesman_by_Gage_Skidmore.jpg),Jonathan Liebesman,5.75,4,Columbia Pictures,689558597,The Texas Chainsaw Massacre: the Beginning,5.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/David_Slade_2014_Comic_Con_1.jpg/220px-David_Slade_2014_Comic_Con_1.jpg),David Slade,6.233333333333333,3,Columbia Pictures,682076726,Hard Candy,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_2014.jpg/220px-Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_2014.jpg),Alejandro G. Iñárritu,7.716666666666667,6,New Regency Productions,677979871,Amores Perros,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Oliver_Stone_by_Gage_Skidmore.jpg/220px-Oliver_Stone_by_Gage_Skidmore.jpg),Oliver Stone,6.929411764705883,17,Warner Bros.,676506935,Platoon,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Antoine_Fuqua_%2829682821190%29.jpg/220px-Antoine_Fuqua_%2829682821190%29.jpg),Antoine Fuqua,6.766666666666667,12,Columbia Pictures,672338690,Training Day,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Barry_Levinson_Shankbone_2009_Tribeca.jpg/220px-Barry_Levinson_Shankbone_2009_Tribeca.jpg),Barry Levinson,6.357142857142857,14,Baltimore Pictures,667647913,Rain Man,8
+![](NA),Directors,6.576470588235294,17,Walt Disney Pictures,661423944,Cowboy Bebop: The Movie,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sylvester_Stallone_Cannes_2019.jpg/220px-Sylvester_Stallone_Cannes_2019.jpg),Sylvester Stallone,6.875,4,Lionsgate,660117420,Rocky Balboa,7.1
+![](NA),James Foley,6.055555555555555,9,New Line Cinema,651224195,Glengarry Glen Ross,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Robert_Luketic_%28cropped%29_at_Alamo_Drafthouse_Cinema.jpg/220px-Robert_Luketic_%28cropped%29_at_Alamo_Drafthouse_Cinema.jpg),Robert Luketic,5.985714285714286,7,Columbia Pictures,649452638,21,6.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Nora_Ephron.jpg/220px-Nora_Ephron.jpg),Nora Ephron,6.066666666666666,6,Columbia Pictures,640255404,Julie & Julia,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/John_McTiernan_Deauville_2014_3.jpg/220px-John_McTiernan_Deauville_2014_3.jpg),John McTiernan,6.67,10,Twentieth Century Fox,627934655,Die Hard,8.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Paul_Verhoeven_Cannes_2016.jpg/220px-Paul_Verhoeven_Cannes_2016.jpg),Paul Verhoeven,6.7875,8,Carolco Pictures,626724845,Black Book,7.7
+![](NA),Simon West,6.0625,8,Lionsgate,625743779,Con Air,6.9
+![](NA),Garth Jennings,6.933333333333334,3,Dentsu,624558249,Sing,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Chris_Wedge_2014.jpg/220px-Chris_Wedge_2014.jpg),Chris Wedge,6.55,4,Twentieth Century Fox Animation,619689175,Ice Age,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Coen_brothers_Cannes_2015_2_%28CROPPED%29.jpg/220px-Coen_brothers_Cannes_2015_2_%28CROPPED%29.jpg),Ethan Coen,7.114285714285714,7,Focus Features,617634010,No Country for Old Men,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Michael_Apted_at_the_72nd_Annual_Peabody_Awards_%28cropped%29.jpg/220px-Michael_Apted_at_the_72nd_Annual_Peabody_Awards_%28cropped%29.jpg),Michael Apted,6.5,9,Fox 2000 Pictures,613354301,Chasing Mavericks,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/David_O._Russell_avp_2014.jpg/220px-David_O._Russell_avp_2014.jpg),David O. Russell,7.1,7,Closest to the Hole Productions,612458571,The Fighter,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Baz_Luhrmann%2C_%2852123943853%29.jpg/220px-Baz_Luhrmann%2C_%2852123943853%29.jpg),Baz Luhrmann,7.06,5,Twentieth Century Fox,610169698,Moulin Rouge!,7.6
+![](NA),Andrew Davis,6.4875,8,Warner Bros.,605818778,The Fugitive,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/David_Frankel_Masterclass_%286350678401%29_%28cropped%29.jpg/220px-David_Frankel_Masterclass_%286350678401%29_%28cropped%29.jpg),David Frankel,6.683333333333334,6,Fox 2000 Pictures,602338389,Marley & Me,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jaume_Collet-Serra_%28cropped%29.jpg/220px-Jaume_Collet-Serra_%28cropped%29.jpg),Jaume Collet-Serra,6.4714285714285715,7,Dark Castle Entertainment,598802790,Orphan,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Frank_Coraci_and_Kate_Beckinsale_cropped_%28cropped%29.jpg/220px-Frank_Coraci_and_Kate_Beckinsale_cropped_%28cropped%29.jpg),Frank Coraci,6.2,7,Columbia Pictures,597610395,The Wedding Singer,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jerry_Zucker_%28cropped%29.jpg/220px-Jerry_Zucker_%28cropped%29.jpg),Jerry Zucker,6.5,3,Paramount Pictures,593802526,Ghost,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/OIFF_2015-07-17_193547_-_Darren_Aronofsky.jpg/220px-OIFF_2015-07-17_193547_-_Darren_Aronofsky.jpg),Darren Aronofsky,7.3,7,Paramount Pictures,591369352,Requiem for a Dream,8.3
+![](NA),Nicholas Stoller,6.4,6,Universal Pictures,590784071,Forgetting Sarah Marshall,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Phil_Lord_%26_Christopher_Miller_by_Gage_Skidmore.jpg/300px-Phil_Lord_%26_Christopher_Miller_by_Gage_Skidmore.jpg),Phil Lord,7.033333333333333,3,Columbia Pictures,583925330,21 Jump Street,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Robert_Schwentke_%282018%29.jpg/220px-Robert_Schwentke_%282018%29.jpg),Robert Schwentke,6.4714285714285715,7,Summit Entertainment,577508382,The Captain,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/McG_at_WonderCon_2009_1.JPG/220px-McG_at_WonderCon_2009_1.JPG),McG,6.1,6,Columbia Pictures,576931207,We Are Marshall,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rob_Reiner_MFF_2016.jpg/220px-Rob_Reiner_MFF_2016.jpg),Rob Reiner,6.928571428571429,14,Castle Rock Entertainment,562710766,Stand by Me,8.1
+![](NA),Chuck Russell,6.02,5,Kopelson Entertainment,556200829,The Mask,6.9
+![](NA),Mark Waters,6.15,8,Paramount Pictures,554995304,Mean Girls,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/WGpix.jpg/220px-WGpix.jpg),Will Gluck,6.3,5,Screen Gems,553517246,Easy A,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/PeterWeirApr2011.jpg/200px-PeterWeirApr2011.jpg),Peter Weir,7.275,8,Paramount Pictures,549766362,Dead Poets Society,8.1
+![](NA),D.J. Caruso,6.328571428571428,7,Dreamworks Pictures,546948553,The Salton Sea,7.1
+![](NA),George Miller,6.45,8,Warner Bros.,539980400,Mad Max: Fury Road,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Adam_McKay-7784_%28cropped%29.jpg/220px-Adam_McKay-7784_%28cropped%29.jpg),Adam McKay,6.942857142857143,7,Columbia Pictures,534302884,The Big Short,7.8
+![](NA),Adrian Lyne,6.666666666666667,6,Paramount Pictures,533823564,Jacob's Ladder,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/AnneFletcherMay09.jpg/220px-AnneFletcherMay09.jpg),Anne Fletcher,6.04,5,Touchstone Pictures,530472051,The Proposal,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sydney_Pollack.jpg/220px-Sydney_Pollack.jpg),Sydney Pollack,6.38,5,Columbia Pictures,513988145,Out of Africa,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rob_Minkoff.jpg/220px-Rob_Minkoff.jpg),Rob Minkoff,5.9799999999999995,5,Columbia Pictures,513872889,Mr. Peabody & Sherman,6.8
+![](NA),Kevin Reynolds,6.766666666666667,6,Icon Entertainment International,512653834,The Count of Monte Cristo,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Damien_Chazelle_%28cropped%29.jpg/220px-Damien_Chazelle_%28cropped%29.jpg),Damien Chazelle,7.933333333333334,3,Bold Films,511716830,Whiplash,8.5
+![](NA),Tim Hill,5.475,4,Fox 2000 Pictures,507956273,Muppets from Space,6.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Seth_Gordon_at_PaleyFest_Fall_TV_Previews_2014.jpg/220px-Seth_Gordon_at_PaleyFest_Fall_TV_Previews_2014.jpg),Seth Gordon,5.925,4,New Line Cinema,506773041,Horrible Bosses,6.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Jonathan_Demme_%28May_2015_small%29.JPG/220px-Jonathan_Demme_%28May_2015_small%29.JPG),Jonathan Demme,6.942857142857143,7,Armian Pictures,503640294,The Silence of the Lambs,8.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Woody_Allen_Cannes_2016.jpg/220px-Woody_Allen_Cannes_2016.jpg),Woody Allen,6.954545454545454,33,Jack Rollins & Charles H. Joffe Productions,502327493,Hannah and Her Sisters,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/John_Madden_%28Higher_Quality%29.jpg/220px-John_Madden_%28Higher_Quality%29.jpg),John Madden,6.788888888888889,9,Blueprint Pictures,500364482,Miss Sloane,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wes_Craven_2010.jpg/220px-Wes_Craven_2010.jpg),Wes Craven,5.83,10,Dimension Films,499188191,Scream,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2024-03-08_SXSW-2024_comedy-directors_3.jpg/220px-2024-03-08_SXSW-2024_comedy-directors_3.jpg),Judd Apatow,6.54,5,Universal Pictures,496897246,The 40-Year-Old Virgin,7.1
+![](NA),Walt Becker,5.625,4,Fox 2000 Pictures,493453242,Van Wilder,6.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/LenWisemanJune07.jpg/220px-LenWisemanJune07.jpg),Len Wiseman,6.75,4,Lakeshore Entertainment,486808149,Live Free or Die Hard,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Keenen_Ivory_Wayans_%2833906703098%29_%28cropped%29.jpg/220px-Keenen_Ivory_Wayans_%2833906703098%29_%28cropped%29.jpg),Keenen Ivory Wayans,5.64,5,Dimension Films,481374701,I'm Gonna Git You Sucka,6.6
+![](https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Emile_Ardolino_at_the_Academy_Awards.jpg/220px-Emile_Ardolino_at_the_Academy_Awards.jpg),Emile Ardolino,6.35,4,Touchstone Pictures,481070303,Dirty Dancing,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Curtis_Hanson.JPG/220px-Curtis_Hanson.JPG),Curtis Hanson,7,6,Fox 2000 Pictures,480769105,L.A. Confidential,8.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mike_Nichols.jpg/220px-Mike_Nichols.jpg),Mike Nichols,6.777777777777778,9,Columbia Pictures,477052823,Closer,7.2
+![](NA),Paul Weitz,6.28,5,Universal Pictures,476345260,American Pie,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Roger_Donaldson_ONZM_%28cropped%29.jpg/220px-Roger_Donaldson_ONZM_%28cropped%29.jpg),Roger Donaldson,6.5,11,Orion Pictures,474762695,The World's Fastest Indian,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BrianDePalma09TIFF.jpg/220px-BrianDePalma09TIFF.jpg),Brian De Palma,6.409090909090909,11,Paramount Pictures,456607767,The Untouchables,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Larry_Charles_TIFF_2008_-_Religulous.jpg/220px-Larry_Charles_TIFF_2008_-_Religulous.jpg),Larry Charles,6.5,3,Everyman Pictures,455738257,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Chad_Stahelski.jpg/220px-Chad_Stahelski.jpg),Chad Stahelski,7.433333333333334,3,Summit Entertainment,449911292,John Wick: Chapter 2,7.5
+![](NA),Mick Jackson,6.3,4,BBC Films,445686816,L.A. Story,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/John_Singleton_2013.jpg/220px-John_Singleton_2013.jpg),John Singleton,6.325,8,Columbia Pictures,432655843,Boyz n the Hood,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Morten_Tyldum_Fade_In_00.58_%28cropped%29.jpg/220px-Morten_Tyldum_Fade_In_00.58_%28cropped%29.jpg),Morten Tyldum,7.5,3,Black Bear Pictures,431662304,The Imitation Game,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sean_Anders_on_The_MacGuffin.jpg/220px-Sean_Anders_on_The_MacGuffin.jpg),Sean Anders,6.3,6,Paramount Pictures,430076548,Instant Family,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/David_Zucker_at_Improv_Boston.jpg/220px-David_Zucker_at_Improv_Boston.jpg),David Zucker,6.05,6,Dimension Films,422840720,The Naked Gun: from the Files of Police Squad!,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bousman%2C_Darren_Lynn_%282009%29.jpg/220px-Bousman%2C_Darren_Lynn_%282009%29.jpg),Darren Lynn Bousman,6.325,4,Twisted Pictures,419663539,Saw II,6.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Amy_Heckerling.jpg/220px-Amy_Heckerling.jpg),Amy Heckerling,5.78,5,TriStar Pictures,412689786,Clueless,6.8
+![](NA),Brad Silberling,6.3,5,Universal Pictures,410870147,A Series of Unfortunate Events,6.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/NickCassavetesJune09.jpg/220px-NickCassavetesJune09.jpg),Nick Cassavetes,7.04,5,New Line Cinema,409836323,The Notebook,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/NeillBlomkampCCJuly09.jpg/220px-NeillBlomkampCCJuly09.jpg),Neill Blomkamp,7.1,3,TriStar Pictures,405841539,District 9,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Alex_Proyas_at_SDCC_2011_%285967418430%29.jpg/220px-Alex_Proyas_at_SDCC_2011_%285967418430%29.jpg),Alex Proyas,6.575,4,Crowvision Inc.,405166389,The Crow,7.6
+![](NA),John Moore,5.72,5,Twentieth Century Fox,401470783,Behind Enemy Lines,6.4
+![](NA),Steve Carr,5.38,5,Twentieth Century Fox,401105982,Next Friday,6.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/CFC_In_LA_2012_19_%286962385999%29_%28Jason_Reitman_cropped%29.jpg/220px-CFC_In_LA_2012_19_%286962385999%29_%28Jason_Reitman_cropped%29.jpg),Jason Reitman,7.042857142857143,7,Paramount Pictures,401095656,Thank You for Smoking,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Roger_Michell_2019.jpg/220px-Roger_Michell_2019.jpg),Roger Michell,6.525,4,Bad Robot,401066586,Notting Hill,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Denis_Villeneuve_by_Gage_Skidmore.jpg/220px-Denis_Villeneuve_by_Gage_Skidmore.jpg),Denis Villeneuve,7.8,6,Alcon Entertainment,400489687,Incendies,8.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Duncan_Jones_by_Gage_Skidmore_3.jpg/220px-Duncan_Jones_by_Gage_Skidmore_3.jpg),Duncan Jones,7.366666666666666,3,Legendary Entertainment,399141718,Moon,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rebecca_Gibney%2C_Pj_Hogan%2C_Deborah_Mailman_%287999301559%29.jpg/220px-Rebecca_Gibney%2C_Pj_Hogan%2C_Deborah_Mailman_%287999301559%29.jpg),P.J. Hogan,6.55,4,CiBy 2000,398139982,Muriel's Wedding,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bong_Joon-ho_2017.jpg/220px-Bong_Joon-ho_2017.jpg),Bong Joon Ho,7.739999999999999,5,CJ Entertainment,395066502,Parasite,8.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Renny_Harlin_by_Gage_Skidmore.jpg/220px-Renny_Harlin_by_Gage_Skidmore.jpg),Renny Harlin,5.7846153846153845,13,New Line Cinema,391099244,Die Hard 2,7.1
+![](NA),Andy Fickman,5.716666666666667,6,Walt Disney Pictures,388877177,She's the Man,6.3
+![](https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Anthony_Minghella.jpg/220px-Anthony_Minghella.jpg),Anthony Minghella,7.333333333333334,3,Miramax,387789443,The English Patient,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Harald_Zwart.jpg/220px-Harald_Zwart.jpg),Harald Zwart,5.78,5,Metro-Goldwyn-Mayer (MGM),386921729,The Karate Kid,6.2
+![](NA),Rupert Wyatt,6.533333333333333,3,Paramount Pictures,386890476,Rise of the Planet of the Apes,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kevin_Costner_2016.jpg/220px-Kevin_Costner_2016.jpg),Kevin Costner,7.166666666666667,3,Tig Productions,386131375,Dances with Wolves,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Joe_Kosinski_by_Gage_Skidmore.jpg/220px-Joe_Kosinski_by_Gage_Skidmore.jpg),Joseph Kosinski,7.133333333333333,3,Columbia Pictures,384583746,Only the Brave,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Tate_Taylor_by_Ken_Kochey.jpg/220px-Tate_Taylor_by_Ken_Kochey.jpg),Tate Taylor,6.75,4,Blumhouse Productions,379379686,The Help,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Jim_Abrahams%2C_2015.jpg/220px-Jim_Abrahams%2C_2015.jpg),Jim Abrahams,6.46,5,Touchstone Pictures,372513654,Ruthless People,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Zhang_Yimou_from_%22Full_River_Red%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853347207442%29_%28cropped%29.jpg/220px-Zhang_Yimou_from_%22Full_River_Red%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853347207442%29_%28cropped%29.jpg),Yimou Zhang,7.4714285714285715,7,Beijing New Picture Film,371553743,To Live,8.3
+![](NA),Kevin Lima,6.266666666666667,3,Walt Disney Pictures,371448204,Enchanted,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mimi_Leder_at_the_75th_Annual_Peabody_Awards_for_The_Leftovers.jpg/220px-Mimi_Leder_at_the_75th_Annual_Peabody_Awards_for_The_Leftovers.jpg),Mimi Leder,6.625,4,Alibaba Pictures,369391115,Pay It Forward,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Catherine_Hardwicke_%26_Madison.JPG/220px-Catherine_Hardwicke_%26_Madison.JPG),Catherine Hardwicke,6.366666666666666,3,Columbia Pictures,367971332,Lords of Dogtown,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Neil_Burger.png/220px-Neil_Burger.png),Neil Burger,7.066666666666666,3,Bull's Eye Entertainment,363634386,The Illusionist,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/1/1c/Gabriele_Muccino.jpeg),Gabriele Muccino,7.1,3,Columbia Pictures,362838889,The Pursuit of Happyness,8
+![](NA),Jonathan Mostow,6.525,4,C-2 Pictures,355641443,Breakdown,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Michael_Mann_SDCC_2014.jpg/220px-Michael_Mann_SDCC_2014.jpg),Michael Mann,7.066666666666666,9,Universal Pictures,355458209,Heat,8.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Timur_Bekmambetov_by_Gage_Skidmore.jpg/220px-Timur_Bekmambetov_by_Gage_Skidmore.jpg),Timur Bekmambetov,6.175000000000001,4,Abraham Productions,355132233,Wanted,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/James-Bobin_Alice_Through_the_Looking_Glass_premiere.jpg/220px-James-Bobin_Alice_Through_the_Looking_Glass_premiere.jpg),James Bobin,6.45,4,Walt Disney Pictures,351070783,The Muppets,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pedro_Almod%C3%B3var_at_Premios_Goya_2017_1_%28cropped_3%29.jpg/220px-Pedro_Almod%C3%B3var_at_Premios_Goya_2017_1_%28cropped_3%29.jpg),Pedro Almodóvar,7.307142857142857,14,El Deseo,347079424,All About My Mother,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Landis_Bologna.jpg/220px-John_Landis_Bologna.jpg),John Landis,6.214285714285714,7,Paramount Pictures,345473268,Coming to America,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Donald_Petrie.jpg/220px-Donald_Petrie.jpg),Donald Petrie,5.87,10,26 Films,341745211,Grumpy Old Men,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/John_Hancock_and_Dog_%28cropped%29.jpg/220px-John_Hancock_and_Dog_%28cropped%29.jpg),John Lee Hancock,7.04,5,98 MPH Productions,339711036,The Blind Side,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kelly_Asbury_Photo_Select_%28cropped%29.jpg/220px-Kelly_Asbury_Photo_Select_%28cropped%29.jpg),Kelly Asbury,6.366666666666667,3,DreamWorks Animation,337714755,Spirit: Stallion of the Cimarron,7.2
+![](NA),David Dobkin,6.5,6,Warner Bros.,336293392,The Judge,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Joe_Wright_by_Gage_Skidmore.jpg/220px-Joe_Wright_by_Gage_Skidmore.jpg),Joe Wright,6.9714285714285715,7,Focus Features,334312995,Pride & Prejudice,7.8
+![](NA),Roger Spottiswoode,5.916666666666667,6,Touchstone Pictures,333549029,Shoot to Kill,6.8
+![](NA),Stephen Herek,6.163636363636364,11,Walt Disney Pictures,333337081,Mr. Holland's Opus,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MJK_08478_Wes_Anderson_%28Opening_Gala_Berlinale_2018%29.jpg/220px-MJK_08478_Wes_Anderson_%28Opening_Gala_Berlinale_2018%29.jpg),Wes Anderson,7.611111111111111,9,Fox Searchlight Pictures,327341993,The Grand Budapest Hotel,8.1
+![](https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/David_R._Ellis.jpg/220px-David_R._Ellis.jpg),David R. Ellis,5.55,6,New Line Cinema,321945022,Cellular,6.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alexander_Payne_8692_%28cropped%29.jpg/220px-Alexander_Payne_8692_%28cropped%29.jpg),Alexander Payne,7.083333333333333,6,Fox Searchlight Pictures,319373475,Nebraska,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ben_Stiller%2C_Paris_%28France%29_%28cropped%29_2.jpg/220px-Ben_Stiller%2C_Paris_%28France%29_%28cropped%29_2.jpg),Ben Stiller,6.366666666666666,6,Columbia Pictures,319017312,The Secret Life of Walter Mitty,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Edgar_Wright_%2835706257512%29.jpg/200px-Edgar_Wright_%2835706257512%29.jpg),Edgar Wright,7.56,5,Universal Pictures,318794787,Shaun of the Dead,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CameronCrowe.jpg/220px-CameronCrowe.jpg),Cameron Crowe,6.871428571428572,7,Columbia Pictures,317421802,Almost Famous,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Baltasar_Korm%C3%A1kur-68717.jpg/220px-Baltasar_Korm%C3%A1kur-68717.jpg),Baltasar Kormákur,6.7,4,Universal Pictures,315575219,Everest,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frank_Oz_2012.jpg/220px-Frank_Oz_2012.jpg),Frank Oz,6.58,10,Paramount Pictures,314181123,Dirty Rotten Scoundrels,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jon_Amiel_Creation_TIFF09_%28Cropped1%29.jpg/220px-Jon_Amiel_Creation_TIFF09_%28Cropped1%29.jpg),Jon Amiel,6.24,5,Canal+,305753955,Copycat,6.6
+![](NA),Randall Wallace,6.675,4,Icon Entertainment International,303648390,We Were Soldiers,7.2
+![](https://upload.wikimedia.org/wikipedia/en/b/b3/George_P_Cosmatos.jpg),George P. Cosmatos,6.475,4,Estudios Churubusco Azteca S.A.,302652335,Tombstone,7.8
+![](NA),Jon Lucas,5.866666666666666,3,Huayi Brothers Media,301562174,Bad Moms,6.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tarsem_Singh_at_WonderCon_2011.jpg/220px-Tarsem_Singh_at_WonderCon_2011.jpg),Tarsem Singh,6.48,5,Relativity Media,300555003,The Fall,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Francis_Ford_Coppola_%2833906700778%29_%28cropped%29.jpg/220px-Francis_Ford_Coppola_%2833906700778%29_%28cropped%29.jpg),Francis Ford Coppola,6.883333333333334,6,American Zoetrope,298402812,The Godfather: Part III,7.6
+![](NA),James DeMonaco,6.033333333333333,3,Universal Pictures,297844872,The Purge: Anarchy,6.4
+![](NA),Phil Alden Robinson,7,3,Gordon Company,292585688,Field of Dreams,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Peter_Chelsom_on_set_2015.jpg/220px-Peter_Chelsom_on_set_2015.jpg),Peter Chelsom,6.383333333333333,6,Miramax,290260492,The Mighty,7.3
+![](NA),Lee Tamahori,6.425,8,Paramount Pictures,284869529,Once Were Warriors,7.9
+![](NA),John R. Leonetti,4.7,3,New Line Cinema,283924729,Annabelle,5.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Stephen_Daldry_2013.jpg/220px-Stephen_Daldry_2013.jpg),Stephen Daldry,7.425,4,Paramount Pictures,280279457,Billy Elliot,7.7
+![](NA),Malcolm D. Lee,5.34,5,Universal Pictures,279296872,Girls Trip,6.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Spike_Lee_Cannes_2018_%28cropped%29.jpg/220px-Spike_Lee_Cannes_2018_%28cropped%29.jpg),Spike Lee,7.015384615384615,13,Universal Pictures,276891405,Do the Right Thing,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Steve_Oedekerk.jpg/220px-Steve_Oedekerk.jpg),Steve Oedekerk,6.225,4,O Entertainment,274615277,Nothing to Lose,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Marc_Lawrence_-_Dillinger_trailer_%281945%29.jpg/220px-Marc_Lawrence_-_Dillinger_trailer_%281945%29.jpg),Marc Lawrence,5.833333333333333,3,Castle Rock Entertainment,272220143,Music and Lyrics,6.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Michael_Lembeck_on_Pop_Goes_The_Culture_TV.jpg/220px-Michael_Lembeck_on_Pop_Goes_The_Culture_TV.jpg),Michael Lembeck,5.166666666666667,3,Walt Disney Pictures,271085695,The Santa Clause 2,5.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Gavin_Hood_2015.jpg/220px-Gavin_Hood_2015.jpg),Gavin Hood,6.92,5,Anonymous Content,270521676,Eye in the Sky,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Penelope_Spheeris.jpg/220px-Penelope_Spheeris.jpg),Penelope Spheeris,6.14,5,Broadway Pictures,270103719,Wayne's World,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/John_Hamburg_%28cropped%29.jpg/220px-John_Hamburg_%28cropped%29.jpg),John Hamburg,6.4,3,Dreamworks Pictures,268394813,"I Love You, Man",7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Richard_Curtis_MFF_2016.jpg/220px-Richard_Curtis_MFF_2016.jpg),Richard Curtis,7.6,3,Universal Pictures,266652400,About Time,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/David_Gordon_Green_by_Gage_Skidmore.jpg/220px-David_Gordon_Green_by_Gage_Skidmore.jpg),David Gordon Green,6.357142857142858,7,Blumhouse Productions,265758464,Pineapple Express,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jean-Pierre_Jeunet_M%C3%BCnchen_2014_%28cropped%29.JPG/220px-Jean-Pierre_Jeunet_M%C3%BCnchen_2014_%28cropped%29.JPG),Jean-Pierre Jeunet,7.366666666666667,3,2003 Productions,263197566,Amélie,8.3
+![](NA),Kirk Jones,6.56,5,Gold Circle Films,262994509,Waking Ned Devine,7.4
+![](NA),John Badham,6.1625,8,Paramount Pictures,260821010,Short Circuit,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/1/10/Wilson_Yip_at_premiere_of_Killzone.jpg),Wilson Yip,7.2,3,Golden Harvest Company,260465032,Ip Man 2,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Florian_Henckel_von_Donnersmarck.jpg/220px-Florian_Henckel_von_Donnersmarck.jpg),Florian Henckel von Donnersmarck,7.366666666666667,3,GK Films,260330617,The Lives of Others,8.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gary_Winick_2002.jpg/220px-Gary_Winick_2002.jpg),Gary Winick,6.125,4,Fox 2000 Pictures,258424199,Letters to Juliet,6.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Penny_Marshall_1976.jpg/220px-Penny_Marshall_1976.jpg),Penny Marshall,6.6571428571428575,7,Columbia Pictures,257486353,Awakenings,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gus_Van_Sant-1345.jpg/220px-Gus_Van_Sant-1345.jpg),Gus Van Sant,6.730769230769231,13,Columbia Pictures,254569455,Good Will Hunting,8.3
+![](https://upload.wikimedia.org/wikipedia/en/thumb/1/16/John_G_Avildsen.jpg/220px-John_G_Avildsen.jpg),John G. Avildsen,6.025,4,Columbia Pictures,253913079,Lean on Me,7.4
+![](NA),Joseph Ruben,6.316666666666666,6,Twentieth Century Fox,253465784,Return to Paradise,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Thor_Freudenthal_2013_%28lfopX1ff72w%29.jpg/220px-Thor_Freudenthal_2013_%28lfopX1ff72w%29.jpg),Thor Freudenthal,5.8,3,Color Force,253299431,Diary of a Wimpy Kid,6.2
+![](NA),John Pasquin,5.6,3,Walt Disney Pictures,252860544,The Santa Clause,6.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/EliRothIBAug09.jpg/220px-EliRothIBAug09.jpg),Eli Roth,5.6571428571428575,7,Black Bear Pictures,251580758,Death Wish,6.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Stephen_Frears_OIFF_2014-07-12_113913_%28cropped%29.jpg/220px-Stephen_Frears_OIFF_2014-07-12_113913_%28cropped%29.jpg),Stephen Frears,6.728571428571429,14,BBC Films,251249571,Dangerous Liaisons,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kenny_Ortega_2019_Disney_Legends_Awards_Ceremony_D23_EXPO_2019_%2851441245259%29_%28cropped%29.jpg/220px-Kenny_Ortega_2019_Disney_Legends_Awards_Ceremony_D23_EXPO_2019_%2851441245259%29_%28cropped%29.jpg),Kenny Ortega,6.233333333333333,3,Walt Disney Pictures,246676367,Newsies,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alexandre_Aja_%2817493159043%29_%28cropped%29.jpg/220px-Alexandre_Aja_%2817493159043%29_%28cropped%29.jpg),Alexandre Aja,6.216666666666667,6,Alexandre Films,245501684,High Tension,6.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bruce_Beresford_2016_%281GEfTW9wxpc%29.jpg/220px-Bruce_Beresford_2016_%281GEfTW9wxpc%29.jpg),Bruce Beresford,7.2,3,Cinelou Films,238820634,Mr. Church,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tony_Gilroy_%287732161230%29.jpg/220px-Tony_Gilroy_%287732161230%29.jpg),Tony Gilroy,6.666666666666667,3,Universal Pictures,237312766,Michael Clayton,7.2
+![](NA),Luis Llosa,5.5,3,Baltimore Pictures,236243002,Sniper,6.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Frank_Darabont_at_the_PaleyFest_2011_-_The_Walking_Dead_panel.jpg/220px-Frank_Darabont_at_the_PaleyFest_2011_-_The_Walking_Dead_panel.jpg),Frank Darabont,7.975,4,Castle Rock Entertainment,235406558,The Shawshank Redemption,9.3
+![](NA),John Hughes,6.942857142857143,7,Paramount Pictures,235191272,The Breakfast Club,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ben_Affleck_by_Gage_Skidmore_3.jpg/220px-Ben_Affleck_by_Gage_Skidmore_3.jpg),Ben Affleck,7.3,4,Warner Bros.,235142637,Argo,7.7
+![](NA),James Wong,5.225,4,New Line Cinema,234497029,Final Destination,6.7
+![](NA),Steve Miner,5.95,6,New World Pictures,231886979,Forever Young,6.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Takashi_Shimizu_cropped.jpg/220px-Takashi_Shimizu_cropped.jpg),Takashi Shimizu,5.9,3,Columbia Pictures,228150166,Ju-on: The Grudge,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pierre-Morel-Taken.JPG/220px-Pierre-Morel-Taken.JPG),Pierre Morel,6.72,5,EuropaCorp,226947502,Taken,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Amenabar_%2822022306905%29_%28cropped%29.jpg/220px-Amenabar_%2822022306905%29_%28cropped%29.jpg),Alejandro Amenábar,7.24,5,Mod Producciones,224185068,The Sea Inside,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Fede_Alvarez_by_Gage_Skidmore.jpg/220px-Fede_Alvarez_by_Gage_Skidmore.jpg),Fede Alvarez,6.566666666666666,3,Columbia Pictures,220638359,Don't Breathe,7.1
+![](NA),Dominic Sena,6.12,5,Atlas Entertainment,220281838,Kalifornia,6.7
+![](NA),Frank Marshall,6.5,4,Film Andes S.A.,218420184,Eight Below,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Steve-McQueen-1968_%28cropped%29.jpg/220px-Steve-McQueen-1968_%28cropped%29.jpg),Steve McQueen,7.425,4,New Regency Productions,217526782,12 Years a Slave,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/GregMottolaJuly09.jpg/220px-GregMottolaJuly09.jpg),Greg Mottola,6.825,4,Columbia Pictures,215880106,Superbad,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jameslbrooks.jpg/220px-Jameslbrooks.jpg),James L. Brooks,6.675000000000001,4,Columbia Pictures,215648381,As Good as It Gets,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ken_Kwapis_2008.jpg/220px-Ken_Kwapis_2008.jpg),Ken Kwapis,6.083333333333334,6,Alcon Entertainment,215133761,The Sisterhood of the Traveling Pants,6.5
+![](NA),Dean Parisot,6.7,3,Columbia Pictures,214441380,Galaxy Quest,7.3
+![](NA),Gregory Hoblit,6.95,6,New Line Cinema,207186835,Primal Fear,7.7
+![](NA),Herbert Ross,6.65,4,Alcor Films,206788051,Steel Magnolias,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Don_Bluth_Photo_Op_GalaxyCon_Raleigh_2023.jpg/220px-Don_Bluth_Photo_Op_GalaxyCon_Raleigh_2023.jpg),Don Bluth,6.883333333333334,6,David Kirschner Productions,204735358,The Land Before Time,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HughesbrothersCCJuly09.jpg/220px-HughesbrothersCCJuly09.jpg),Albert Hughes,6.96,5,Alcon Entertainment,202428317,Menace II Society,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Glenn_Ficarra_%286146978302%29.jpg/220px-Glenn_Ficarra_%286146978302%29.jpg),Glenn Ficarra,6.8,4,Broadway Video,201455205,"Crazy, Stupid, Love.",7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jesse_Dylan_2010_%28cropped%29.jpg/220px-Jesse_Dylan_2010_%28cropped%29.jpg),Jesse Dylan,6.066666666666666,3,Universal Pictures,200077108,How High,6.3
+![](NA),Jason Friedberg,2.625,4,New Regency Productions,198500441,Vampires Suck,3.4
+![](https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Rod_Daniel.jpg/220px-Rod_Daniel.jpg),Rod Daniel,5.666666666666667,3,Atlantic Entertainment Group,197577324,Teen Wolf,6.1
+![](NA),Mark Steven Johnson,5.775,4,Columbia Pictures,196224902,Simon Birch,6.9
+![](NA),Luke Greenfield,5.95,4,Alcon Entertainment,194898176,The Girl Next Door,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lee_daniels_empire_carpet.jpg/220px-Lee_daniels_empire_carpet.jpg),Lee Daniels,6.766666666666667,3,Follow Through Productions,192247189,Precious,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Neil_Jordan_by_David_Shankbone.jpg/220px-Neil_Jordan_by_David_Shankbone.jpg),Neil Jordan,6.766666666666667,12,Warner Bros.,191545175,Interview with the Vampire: the Vampire Chronicles,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tyler_Perry_Interview_2016.jpg/220px-Tyler_Perry_Interview_2016.jpg),Tyler Perry,5.233333333333333,3,Lions Gate Films,188740161,Tyler Perry's Why Did I Get Married?,5.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Josh_Gordon_2019.png/220px-Josh_Gordon_2019.png),Josh Gordon,6.1,3,DreamWorks,185054657,Blades of Glory,6.3
+![](NA),Steven Brill,5.883333333333333,6,Paramount Pictures,184347512,Heavyweights,6.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TaylorHackfordHWOFJan2013.jpg/220px-TaylorHackfordHWOFJan2013.jpg),Taylor Hackford,7.183333333333334,6,Castle Rock Entertainment,183458057,"Blood In, Blood Out",8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_Director_of_%E2%80%98Evil%E2%80%99_Mikael_Hafstrom%2C_Actor_Andreas_Eilson%2C_Director_of_the_film_%E2%80%98Double_Shift%E2%80%99_Maria_Essen%2C_the_Producer_of_the_film_%E2%80%98Threat%E2%80%99_Christer_Abrahamson_Actor_Stefan_Sauk.jpg/1000px-thumbnail.jpg),Mikael Håfström,6.775,4,Di Bonaventura Pictures,182896213,Evil,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Martin_McDonagh_2012.jpg/220px-Martin_McDonagh_2012.jpg),Martin McDonagh,7.733333333333333,3,Blueprint Pictures,181504398,"Three Billboards Outside Ebbing, Missouri",8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Jeff_Wadlow_by_Gage_Skidmore.jpg/220px-Jeff_Wadlow_by_Gage_Skidmore.jpg),Jeff Wadlow,6.025,4,Blumhouse Productions,177840534,Never Back Down,6.6
+![](NA),Christopher Landon,6.366666666666666,3,Blumhouse Productions,177416464,Happy Death Day,6.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sofia_Coppola_Cannes_2013.jpg/220px-Sofia_Coppola_Cannes_2013.jpg),Sofia Coppola,6.6,6,American Zoetrope,174217517,Lost in Translation,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Michel_Gondry_Deauville_2012_%28cropped%29.jpg/220px-Michel_Gondry_Deauville_2012_%28cropped%29.jpg),Michel Gondry,6.7250000000000005,4,Columbia Pictures,174008029,Eternal Sunshine of the Spotless Mind,8.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lawrence_Kasdan_by_Gage_Skidmore.jpg/220px-Lawrence_Kasdan_by_Gage_Skidmore.jpg),Lawrence Kasdan,6.585714285714285,7,Warner Bros.,173278045,Silverado,7.2
+![](NA),Jonathan Levine,6.516666666666667,6,Summit Entertainment,172369500,50/50,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/George_Clooney_2016.jpg/220px-George_Clooney_2016.jpg),George Clooney,6.55,6,Columbia Pictures,172270451,"Good Night, and Good Luck.",7.4
+![](NA),John Whitesell,4.8,3,New Regency Productions,171831531,Malibu's Most Wanted,5.2
+![](NA),Tom Vaughan,6.4,3,BBC Films,170246249,Starter for 10,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Harold_Ramis_Oct_2009.jpg/220px-Harold_Ramis_Oct_2009.jpg),Harold Ramis,6.266666666666667,6,Columbia Pictures,169178964,Groundhog Day,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Joe_Carnahan_%284920110734%29_%28cropped%29.jpg/220px-Joe_Carnahan_%284920110734%29_%28cropped%29.jpg),Joe Carnahan,6.825,4,Open Road Films (II),168387117,Narc,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/8/8a/Brian_Helgeland%2C_April_2%2C_2013_%28cropped%29.jpg),Brian Helgeland,6.72,5,Columbia Pictures,168118095,42,7.5
+![](NA),Hugh Wilson,6.4,3,Channel Films,167810527,Blast from the Past,6.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/ChowKL1_%28cropped%29.JPG/220px-ChowKL1_%28cropped%29.JPG),Stephen Chow,7.133333333333334,3,Columbia Pictures Film Production Asia,167189118,Kung Fu Hustle,7.7
+![](NA),Ronny Yu,6.25,4,Alliance Atlantis Communications,166275739,Fearless,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Andrew_Niccol_by_Gage_Skidmore.jpg/220px-Andrew_Niccol_by_Gage_Skidmore.jpg),Andrew Niccol,6.82,5,Chockstone Pictures,166022323,Gattaca,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Coen_brothers_Cannes_2015_2_%28CROPPED%29.jpg/220px-Coen_brothers_Cannes_2015_2_%28CROPPED%29.jpg),Joel Coen,7.5,9,Circle Films,165180437,Fargo,8.1
+![](NA),Michael Spierig,6.3,4,CBS Films,164732113,Predestination,7.5
+![](NA),Michael Ritchie,6.275,4,Universal Pictures,164167329,Fletch,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jon_Avnet.jpg/220px-Jon_Avnet.jpg),Jon Avnet,6.483333333333333,6,Millennium Films,162587267,Fried Green Tomatoes,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Jose_Padilha_by_Gage_Skidmore.jpg/220px-Jose_Padilha_by_Gage_Skidmore.jpg),José Padilha,6.633333333333333,3,Metro-Goldwyn-Mayer (MGM),162219545,Elite Squad,8
+![](NA),Martin Brest,6.3,4,Universal Pictures,160915168,Scent of a Woman,8
+![](NA),Rob Bowman,5.966666666666667,3,Twentieth Century Fox,159322252,The X Files,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Joe_Roth_at_Sounders_Victory_Rally%2C_2016.jpg/220px-Joe_Roth_at_Sounders_Victory_Rally%2C_2016.jpg),Joe Roth,5.4,3,Revolution Studios,158963980,America's Sweethearts,5.7
+![](NA),Peter Hyams,5.69,10,Autonomous Films,158218151,Running Scared,6.5
+![](NA),Scott Hicks,6.84,5,Castle Rock Entertainment,157426277,Shine,7.7
+![](NA),John Erick Dowdle,6.275,4,Bold Films,157132676,No Escape,6.8
+![](NA),John Glen,6.533333333333333,3,Eon Productions,155681234,The Living Daylights,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Richard_Benjamin_LOC.jpg/220px-Richard_Benjamin_LOC.jpg),Richard Benjamin,5.84,5,Amblin Entertainment,155353404,Mermaids,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Richard_Linklater_April_2015.jpg/220px-Richard_Linklater_April_2015.jpg),Richard Linklater,7.18125,16,Annapurna Pictures,155223737,Before Sunrise,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mathieu_Kassovitz_Cannes_2017.jpg/220px-Mathieu_Kassovitz_Cannes_2017.jpg),Mathieu Kassovitz,6.6,4,Babylon,150106810,La Haine,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Robert_Redford_%28cropped%29.jpg/220px-Robert_Redford_%28cropped%29.jpg),Robert Redford,6.785714285714286,7,Allied Filmmakers,150057667,Quiz Show,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Richard_LaGravenese%2C_September_2017_%282322%29_%28cropped%29.jpg/220px-Richard_LaGravenese%2C_September_2017_%282322%29_%28cropped%29.jpg),Richard LaGravenese,6.8999999999999995,3,Alcon Entertainment,148982652,Freedom Writers,7.6
+![](NA),Thomas Carter,6.45,4,Coach Carter,148008750,Coach Carter,7.3
+![](NA),Boaz Yakin,7.025,4,IM Global,147548311,Remember the Titans,7.8
+![](NA),Gavin O'Connor,7.375,4,Lionsgate,147114925,Warrior,8.1
+![](NA),Roger Kumble,5.5,4,Columbia Pictures,144543040,Cruel Intentions,6.8
+![](NA),Les Mayfield,5.8,5,Columbia Pictures,143593261,Blue Streak,6.3
+![](https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Jay_Russell.jpg/220px-Jay_Russell.jpg),Jay Russell,6.625,4,Alcon Entertainment,143431804,My Dog Skip,7
+![](NA),Peter Hewitt,5.4,4,Nelson Entertainment,142338218,Bill & Ted's Bogus Journey,6.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Wayne_Wang_film_director_of_Chan_is_Missing.jpg/220px-Wayne_Wang_film_director_of_Chan_is_Missing.jpg),Wayne Wang,6.566666666666666,6,Fox 2000 Pictures,141848667,The Joy Luck Club,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/CharlesMartinSmith08TIFF.jpg/220px-CharlesMartinSmith08TIFF.jpg),Charles Martin Smith,6.266666666666667,3,Alcon Entertainment,141796086,Dolphin Tale,6.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lorene_Scafaria_Close-up_%2848749032293%29.jpg/220px-Lorene_Scafaria_Close-up_%2848749032293%29.jpg),Lorene Scafaria,6.433333333333334,3,Annapurna Pictures,141470527,Seeking a Friend for the End of the World,6.7
+![](NA),Kevin Macdonald,6.78,5,Focus Features,140416797,The Last King of Scotland,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Jonathan_Frakes_%2853161131992%29.jpg/220px-Jonathan_Frakes_%2853161131992%29.jpg),Jonathan Frakes,5.875,4,Paramount Pictures,139692466,Star Trek: First Contact,7.6
+![](NA),Michael Lehmann,6.116666666666666,6,Twentieth Century Fox,138627511,Heathers,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Daniel_Espinosa.jpg/220px-Daniel_Espinosa.jpg),Daniel Espinosa,6.625,4,Columbia Pictures,137013648,Snabba Cash,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alex_Kendrick_2019_%28Me-riHIbnqI%29.jpg/220px-Alex_Kendrick_2019_%28Me-riHIbnqI%29.jpg),Alex Kendrick,6.666666666666667,3,FaithStep Films,136415447,Courageous,7
+![](NA),Gérard Krawczyk,6.333333333333333,3,EuropaCorp,135289732,Wasabi,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jean-Jacques_Annaud_par_Claude_Truong-Ngoc_f%C3%A9vrier_2015.jpg/220px-Jean-Jacques_Annaud_par_Claude_Truong-Ngoc_f%C3%A9vrier_2015.jpg),Jean-Jacques Annaud,7.4,5,Constantin Film,134354427,The Name of the Rose,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Paul_Haggis%2C_Canadian_Film_Centre%2C_2013-cropped.jpg/220px-Paul_Haggis%2C_Canadian_Film_Centre%2C_2013-cropped.jpg),Paul Haggis,7.1,4,Bob Yari Productions,133525263,Crash,7.7
+![](NA),Michael Hoffman,6.62,5,Beacon Communications,130519545,The Emperor's Club,6.9
+![](NA),Marcus Nispel,5.575,4,New Line Cinema,129880925,The Texas Chainsaw Massacre,6.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/George_Tillman_Jr_2013.jpg/220px-George_Tillman_Jr_2013.jpg),George Tillman Jr.,6.98,5,Fox 2000 Pictures,127269444,The Hate U Give,7.5
+![](NA),Dwight H. Little,5.56,5,Screen Gems,125612409,Murder at 1600,6.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/David_Goyer.jpg/220px-David_Goyer.jpg),David S. Goyer,5.6,3,Hollywood Pictures,124302067,The Invisible,6.2
+![](NA),Howard Deutch,6.457142857142857,7,Bel Air Entertainment,123857030,Some Kind of Wonderful,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Charles_Shyer%2C_2011.jpg/220px-Charles_Shyer%2C_2011.jpg),Charles Shyer,6.08,5,Annhall,123499439,Father of the Bride,6.5
+![](https://upload.wikimedia.org/wikipedia/commons/9/9a/Jim_Sheridan.jpg),Jim Sheridan,7.0285714285714285,7,Hell's Kitchen Films,123480681,In the Name of the Father,8.1
+![](NA),Russell Mulcahy,5.96,5,Davis-Panzer Productions,122994483,Highlander,7.1
+![](NA),Oliver Parker,6.633333333333333,3,Arts Council of England,122631185,An Ideal Husband,6.8
+![](NA),Jonathan Lynn,6.628571428571428,7,Imagine Entertainment,122059133,My Cousin Vinny,7.6
+![](NA),Jessie Nelson,6.666666666666666,3,New Line Cinema,121409222,I Am Sam,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Andrzej_Bartkowiak.jpg/220px-Andrzej_Bartkowiak.jpg),Andrzej Bartkowiak,5.28,5,Warner Bros.,120321237,Romeo Must Die,6.1
+![](NA),Rupert Wainwright,5.066666666666666,3,Metro-Goldwyn-Mayer (MGM),119225669,Stigmata,6.2
+![](NA),Johannes Roberts,5.3,3,Aviron Pictures,118520150,47 Meters Down,5.7
+![](NA),Tom Dey,5.8999999999999995,3,Material,117384297,Shanghai Noon,6.6
+![](NA),Stuart Baird,6.466666666666667,3,Warner Bros.,116673091,U.S. Marshals,6.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Justin_Kurzel_Cannes_2015.jpg/220px-Justin_Kurzel_Cannes_2015.jpg),Justin Kurzel,6.3,3,Carver Films,116369310,The Snowtown Murders,6.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Victor_Salva.jpg/200px-Victor_Salva.jpg),Victor Salva,5.92,5,United Artists,115180904,Peaceful Warrior,7.3
+![](NA),Nigel Cole,6.8,3,Touchstone Pictures,115028808,Saving Grace,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kathryn_Bigelow_by_David_Shankbone.jpg/220px-Kathryn_Bigelow_by_David_Shankbone.jpg),Kathryn Bigelow,7.0125,8,Annapurna Pictures,114230261,The Hurt Locker,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Zombiemayhem.jpg/220px-Zombiemayhem.jpg),Rob Zombie,5.683333333333334,6,Dimension Films,113009227,The Devil's Rejects,6.8
+![](NA),Tom McCarthy,7.6,4,Fox Searchlight Pictures,112878722,Spotlight,8.1
+![](NA),Peter Howitt,6.225,4,Deep River Productions,112535028,Sliding Doors,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mark_Neveldine_2011.jpg/220px-Mark_Neveldine_2011.jpg),Mark Neveldine,5.8,4,Lionsgate,111896052,Crank,6.9
+![](NA),Harold Becker,6.22,5,Castle Rock Entertainment,110981636,Sea of Love,6.8
+![](NA),David Bowers,6.425,4,Fox 2000 Pictures,110925231,Flushed Away,6.6
+![](NA),Andrew Bergman,5.8,4,Castle Rock Entertainment,110918955,The Freshman,6.5
+![](NA),James Watkins,6.5,3,CBS Films,110798375,Eden Lake,6.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Simon_Wincer_on_AccessReel.jpg/220px-Simon_Wincer_on_AccessReel.jpg),Simon Wincer,5.76,5,Bungalow Productions,110158456,Quigley Down Under,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/A_portrait_of_Norman_Jewison_taken_by_Gail_Harvey._%2848198901241%29_%28cropped%29.jpg/220px-A_portrait_of_Norman_Jewison_taken_by_Gail_Harvey._%2848198901241%29_%28cropped%29.jpg),Norman Jewison,7.066666666666666,3,Azoff Entertainment,109657668,The Hurricane,7.6
+![](NA),Simon Curtis,7.225,4,DJ Films,108846205,The Art of Racing in the Rain,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sylvain_White_at_WonderCon_2010_2.JPG/220px-Sylvain_White_at_WonderCon_2010_2.JPG),Sylvain White,4.966666666666667,3,Rainforest Films,108647326,The Losers,6.3
+![](NA),Frederik Du Chau,5.433333333333334,3,Alcon Entertainment,108535750,Quest for Camelot,6.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Danny_DeVito_cropped_and_edited_for_brightness.jpg/220px-Danny_DeVito_cropped_and_edited_for_brightness.jpg),Danny DeVito,6.466666666666667,6,Twentieth Century Fox,107571128,Matilda,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burr_Steers_%28cropped%29.jpg/220px-Burr_Steers_%28cropped%29.jpg),Burr Steers,6.375,4,Cross Creek Pictures,106884276,Igby Goes Down,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kevin_Smith_by_Gage_Skidmore_3.jpg/220px-Kevin_Smith_by_Gage_Skidmore_3.jpg),Kevin Smith,6.654545454545454,11,View Askew Productions,105866428,Clerks,7.7
+![](NA),Niels Arden Oplev,6.5,3,Columbia Pictures,105646993,The Girl with the Dragon Tattoo,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nimrod_Antal_by_Gage_Skidmore.jpg/220px-Nimrod_Antal_by_Gage_Skidmore.jpg),Nimród Antal,6.733333333333333,3,Café Film,104953843,Control,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jared_Hess_%28cropped%29.jpg/220px-Jared_Hess_%28cropped%29.jpg),Jared Hess,6.175,4,Broadway Video,104787538,Napoleon Dynamite,6.9
+![](NA),Michael Caton-Jones,6.3,7,Enigma Productions,104611090,This Boy's Life,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Yorgos_Lanthimos_2023_%28cropped%29.jpg/220px-Yorgos_Lanthimos_2023_%28cropped%29.jpg),Yorgos Lanthimos,7.225,4,Boo Productions,104131714,The Favourite,7.5
+![](NA),Sam Weisman,5.64,5,Avnet/Kerner Productions,103851423,D2: The Mighty Ducks,6.1
+![](NA),James McTeigue,6.933333333333334,3,Warner Bros.,103811660,V for Vendetta,8.1
+![](NA),Ron Shelton,6.283333333333333,6,Alphaville Films,101468895,Bull Durham,7.1
+![](NA),Jay Chandrasekhar,6.06,5,Warner Bros.,101231528,Super Troopers,7.1
+![](NA),David Lowery,6.675000000000001,4,Sailor Bear,99438661,A Ghost Story,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bennett_Altman_Miller.jpg/220px-Bennett_Altman_Miller.jpg),Bennett Miller,7.3,3,Annapurna Pictures,97740134,Moneyball,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brian_Robbins.png/220px-Brian_Robbins.png),Brian Robbins,5.5875,8,Paramount Pictures,97658584,Varsity Blues,6.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Terrence_Malick%2C_1993.jpg/220px-Terrence_Malick%2C_1993.jpg),Terrence Malick,6.4,6,Brothers K Productions,97511494,The Thin Red Line,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gurinder_Chadha.jpg/220px-Gurinder_Chadha.jpg),Gurinder Chadha,6.566666666666666,3,Kintop Pictures,97398959,Blinded by the Light,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tomas_Alfredson_2011.png/220px-Tomas_Alfredson_2011.png),Tomas Alfredson,6.7,3,EFTI,96911723,Let the Right One In,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/David_Cronenberg_2012-03-08.jpg/220px-David_Cronenberg_2012-03-08.jpg),David Cronenberg,6.781818181818182,11,Recorded Picture Company (RPC),96697810,The Fly,7.6
+![](NA),Michael Tiddes,4.4,3,Baby Way Productions,96245814,A Haunted House,5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Fran%C3%A7ois_Ozon_avp_2012.jpg/220px-Fran%C3%A7ois_Ozon_avp_2012.jpg),François Ozon,6.82,5,Mandarin Films,95828691,In the House,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tom_Tykwer_%28Berlin_Film_Festival_2009%29.jpg/220px-Tom_Tykwer_%28Berlin_Film_Festival_2009%29.jpg),Tom Tykwer,7.033333333333333,6,X-Filme Creative Pool,93460816,Run Lola Run,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Zach_Braff_2011_Shankbone.JPG/220px-Zach_Braff_2011_Shankbone.JPG),Zach Braff,6.9,3,Camelot Pictures,92914633,Garden State,7.4
+![](NA),Angela Robinson,5.733333333333333,3,Screen Gems,92643877,Professor Marston & the Wonder Women,7.1
+![](NA),John Carney,7.7,3,Bórd Scannán na hÉireann,92064152,Sing Street,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/10.5.17ReginaldHudlinByLuigiNovi1.jpg/220px-10.5.17ReginaldHudlinByLuigiNovi1.jpg),Reginald Hudlin,5.96,5,Broadway Pictures,91944249,Marshall,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Paul_Thomas_Anderson_2022_%281%29_%28cropped%29.jpg/220px-Paul_Thomas_Anderson_2022_%281%29_%28cropped%29.jpg),Paul Thomas Anderson,7.5,8,Ghoulardi Film Company,91359683,There Will Be Blood,8.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Karan_Johar_walks_the_ramp_for_Shane_and_Falguni_Peacock.jpg/220px-Karan_Johar_walks_the_ramp_for_Shane_and_Falguni_Peacock.jpg),Karan Johar,6.9799999999999995,5,Dharma Productions,91077995,My Name Is Khan,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gil_Kenan%2C_34th_Annie_Awards%2C_2007.jpg/220px-Gil_Kenan%2C_34th_Annie_Awards%2C_2007.jpg),Gil Kenan,6,3,Columbia Pictures,90228921,Monster House,6.6
+![](https://upload.wikimedia.org/wikipedia/commons/e/ee/JDayton.jpg),Jonathan Dayton,7.233333333333333,3,Fox Searchlight Pictures,88026364,Little Miss Sunshine,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fernando_Meirelles_2012_%28cropped%29.JPG/220px-Fernando_Meirelles_2012_%28cropped%29.JPG),Fernando Meirelles,7.2,4,BBC Films,87390844,City of God,8.6
+![](NA),Scott Stewart,5.766666666666667,3,Screen Gems,84586266,Dark Skies,6.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Philip_Kaufman_03.jpg/220px-Philip_Kaufman_03.jpg),Philip Kaufman,6.5,5,Fox Searchlight Pictures,84121875,The Unbearable Lightness of Being,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/David_Wain_in_2019.jpg/220px-David_Wain_in_2019.jpg),David Wain,6.333333333333333,3,A Hot Dog,83757441,Role Models,6.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Walter_Salles_at_TIFF_2012.jpg/220px-Walter_Salles_at_TIFF_2012.jpg),Walter Salles,6.875,4,"Audiovisual Development Bureau, Ministerio da Cultura",83709240,Central Station,8
+![](NA),Miguel Arteta,6.333333333333334,3,Dimension Films,83166206,The Good Girl,6.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Lewis_Teague_with_Charlotta.JPG/220px-Lewis_Teague_with_Charlotta.JPG),Lewis Teague,6,3,Dino De Laurentiis Company,82928599,Cat's Eye,6.3
+![](NA),Breck Eisner,6.166666666666667,3,Overture Films,80984084,The Crazies,6.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Trey_Parker_by_Gage_Skidmore_2.jpg/220px-Trey_Parker_by_Gage_Skidmore_2.jpg),Trey Parker,7,3,Kuzui Enterprises,80566803,"South Park: Bigger, Longer & Uncut",7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/David_S_Ward.jpg/220px-David_S_Ward.jpg),David S. Ward,6.075,4,Mirage Enterprises,80464127,Major League,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/20130925%E2%80%94Park_Chan-wook_%EB%B0%95%EC%B0%AC%EC%9A%B1_Marie_Claire_Korea_photo_shoot_screenshot_%2800m01s%29_%28cropped%29.jpg/220px-20130925%E2%80%94Park_Chan-wook_%EB%B0%95%EC%B0%AC%EC%9A%B1_Marie_Claire_Korea_photo_shoot_screenshot_%2800m01s%29_%28cropped%29.jpg),Park Chan-Wook,7.6,6,CJ Entertainment,79999814,Oldboy,8.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sanjay_Leela_Bhansali.jpg/220px-Sanjay_Leela_Bhansali.jpg),Sanjay Leela Bhansali,7.5249999999999995,4,Bhansali Productions,78553868,Black,8.2
+![](NA),Scott Cooper,7.025,4,Appian Way,77511815,Crazy Heart,7.2
+![](NA),Peter Hedges,6.766666666666667,3,Monsterfoot Productions,77469268,Pieces of April,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Anton_Corbijn_%28Berlinale_2012%29.jpg/220px-Anton_Corbijn_%28Berlinale_2012%29.jpg),Anton Corbijn,6.933333333333334,3,Becker Films,77269306,Control,7.7
+![](NA),Robert Iscove,4.466666666666667,3,19 Entertainment,76946487,She's All That,5.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Jean-Marc_Vall%C3%A9e%2C_Genie_Awards_2012.jpg/220px-Jean-Marc_Vall%C3%A9e%2C_Genie_Awards_2012.jpg),Jean-Marc Vallée,7.35,4,Black Label Media,76800998,Dallas Buyers Club,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/LoneScherfig09TIFF.jpg/220px-LoneScherfig09TIFF.jpg),Lone Scherfig,7.033333333333333,3,BBC Films,75583547,An Education,7.3
+![](NA),Tamra Davis,5.566666666666666,3,Fuzzy Bunny Films (I),75089784,Half Baked,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Roman_Polanski_2011_2.jpg/220px-Roman_Polanski_2011_2.jpg),Roman Polanski,7.3,7,R.P. Productions,74311448,The Pianist,8.5
+![](NA),Howard Zieff,6.233333333333333,3,Columbia Pictures,73739838,My Girl,6.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/David_Twohy_by_Gage_Skidmore.jpg/220px-David_Twohy_by_Gage_Skidmore.jpg),David Twohy,6.58,5,Dimension Films,73003047,Pitch Black,7.1
+![](NA),Kar-Wai Wong,7.3875,8,Block 2 Pictures,72665795,Chungking Express,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brad_Furman_2021.jpg/220px-Brad_Furman_2021.jpg),Brad Furman,6.633333333333333,3,George Films,72438557,The Lincoln Lawyer,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FrankMiller_JimLee_DC%27s_2018PopUpShop2.jpg/220px-FrankMiller_JimLee_DC%27s_2018PopUpShop2.jpg),Frank Miller,6.433333333333334,3,Aldamisa Entertainment,72305877,Sin City,8
+![](NA),Gary Fleder,6.685714285714286,7,New Regency Productions,72183731,The Express,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hirokazu_Kore-eda_Cannes_2015.jpg/220px-Hirokazu_Kore-eda_Cannes_2015.jpg),Hirokazu Koreeda,7.866666666666666,3,AOI Promotion,71089413,Nobody Knows,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mike_Figgis_-_Deloitte_Ignite_2011_%282%29.jpg/220px-Mike_Figgis_-_Deloitte_Ignite_2011_%282%29.jpg),Mike Figgis,6.333333333333333,3,Lumiere Pictures,70283753,Leaving Las Vegas,7.5
+![](NA),Patrick Lussier,5.233333333333333,3,Dimension Films,69698252,My Bloody Valentine,5.4
+![](NA),Ben Younger,6.666666666666667,3,New Line Cinema,68416428,Boiler Room,7
+![](NA),Charles Stone III,6.266666666666667,3,Dimension Films,68369425,Paid in Full,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/James_Ivory_%281991.09%29.jpg/220px-James_Ivory_%281991.09%29.jpg),James Ivory,7.0200000000000005,5,Merchant Ivory Productions,68255663,The Remains of the Day,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Shekhar_kapur_02.jpg/220px-Shekhar_kapur_02.jpg),Shekhar Kapur,6.9,3,Paramount Pictures,67816045,Elizabeth,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nicolas_Winding_Refn_Cannes_2013.jpg/220px-Nicolas_Winding_Refn_Cannes_2013.jpg),Nicolas Winding Refn,6.716666666666667,6,Space Rocket Nation,66719381,Drive,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Denzel_Washington_2018.jpg/220px-Denzel_Washington_2018.jpg),Denzel Washington,7.333333333333333,3,BRON Studios,66553903,The Great Debaters,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jodie_Foster_C%C3%A9sars_2011_2_%28cropped%29.jpg/220px-Jodie_Foster_C%C3%A9sars_2011_2_%28cropped%29.jpg),Jodie Foster,6.574999999999999,4,Orion Pictures,65107469,Little Man Tate,6.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Jim_Jarmusch_Cannes_2013.JPG/220px-Jim_Jarmusch_Cannes_2013.JPG),Jim Jarmusch,7.26,10,Focus Features,64873592,Down by Law,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Guillaume_Canet.jpg/220px-Guillaume_Canet.jpg),Guillaume Canet,7.033333333333333,3,Trésor Films,63814849,Tell No One,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adam_Wingard_by_Gage_Skidmore.jpg/220px-Adam_Wingard_by_Gage_Skidmore.jpg),Adam Wingard,6.1,3,HanWay Films,63768686,The Guest,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/NikiCaro_%28cropped%29.jpg/220px-NikiCaro_%28cropped%29.jpg),Niki Caro,7.3,4,Mayhem Pictures,62637045,Whale Rider,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Henry_Selick_2009_%28cropped%29.jpg/220px-Henry_Selick_2009_%28cropped%29.jpg),Henry Selick,6.8,4,Focus Features,61656576,The Nightmare Before Christmas,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Luca_Guadagnino_at_Berlinale_2017_%28cropped_2%29.jpg/220px-Luca_Guadagnino_at_Berlinale_2017_%28cropped_2%29.jpg),Luca Guadagnino,7.1000000000000005,3,Frenesy Film Company,61449081,Call Me by Your Name,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Paolo_Sorrentino_2018.jpg/220px-Paolo_Sorrentino_2018.jpg),Paolo Sorrentino,7.266666666666667,3,Indigo Film,60053290,The Great Beauty,7.8
+![](NA),John Schultz,5.5,3,Twentieth Century Fox,59249245,Drive Me Crazy,5.8
+![](NA),John Wells,6.833333333333333,3,The Weinstein Company,58882680,August: Osage County,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Robert_Altman_-_1983.jpg/220px-Robert_Altman_-_1983.jpg),Robert Altman,6.4,7,Artisan Entertainment,58513743,Short Cuts,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Geoff_Murphy_%28cropped%29.jpg/220px-Geoff_Murphy_%28cropped%29.jpg),Geoff Murphy,6.05,4,Morgan Creek Entertainment,56719654,The Quiet Earth,6.8
+![](NA),Craig Brewer,6.7,3,Crunk Pictures,56214540,Hustle & Flow,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Giuseppe_Tornatore.jpg/220px-Giuseppe_Tornatore.jpg),Giuseppe Tornatore,7.92,5,Cecchi Gori Group Tiger Cinematografica,55680007,Cinema Paradiso,8.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ken_Loach_Cannes_2014.jpg/220px-Ken_Loach_Cannes_2014.jpg),Ken Loach,7.48,5,Sixteen Films,55648996,"I, Daniel Blake",7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Alan_Parker_%28Director%29%2C_London%2C_2012.jpg/220px-Alan_Parker_%28Director%29%2C_London%2C_2012.jpg),Alan Parker,7.1,7,Beacon Communications,54317263,Mississippi Burning,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Stanley_tong_kwai_lai.jpg/220px-Stanley_tong_kwai_lai.jpg),Stanley Tong,6.075,4,Golden Harvest Company,53590684,Supercop,6.9
+![](NA),Billy Ray,6.8,3,IM Global,53253677,Shattered Glass,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/DK_2022_photo_2.jpg/220px-DK_2022_photo_2.jpg),David Koepp,6.44,5,Artisan Entertainment,52505560,Stir of Echoes,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Derek_Cianfrance.jpg/220px-Derek_Cianfrance.jpg),Derek Cianfrance,7.266666666666667,3,Heyday Films,52468853,Blue Valentine,7.3
+![](NA),Iain Softley,6.66,5,IMF Internationale Medien und Film GmbH & Co. 2. Produktions KG,52045152,K-PAX,7.4
+![](NA),Jonathan Kaplan,6.3,4,Fox 2000 Pictures,51572485,The Accused,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Asghar_Farhadi_in_2018-2_%28cropped%29.jpg/220px-Asghar_Farhadi_in_2018-2_%28cropped%29.jpg),Asghar Farhadi,7.74,5,Memento Films Production,51108727,A Separation,8.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Prachya_Pinkaew_20070116.jpg/220px-Prachya_Pinkaew_20070116.jpg),Prachya Pinkaew,7.1,3,EuropaCorp,50580021,Ong-Bak: The Thai Warrior,7.2
+![](NA),Jee-woon Kim,7.133333333333333,3,Barunson E&A,50558323,I Saw the Devil,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kimberly_Peirce_on_The_MacGuffin.jpg/220px-Kimberly_Peirce_on_The_MacGuffin.jpg),Kimberly Peirce,6.6000000000000005,3,Fox Searchlight Pictures,50544238,Boys Don't Cry,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Lars_von_Trier_2014_%28cropped%29.jpg/220px-Lars_von_Trier_2014_%28cropped%29.jpg),Lars von Trier,7.245454545454545,11,Zentropa Entertainments,50388756,Dancer in the Dark,8
+![](NA),Jeremiah S. Chechik,6,4,Warner Bros.,50341431,National Lampoon's Christmas Vacation,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Spike_Jonze_Her_Premiere_NYFF_2013_%28cropped%29.jpg/220px-Spike_Jonze_Her_Premiere_NYFF_2013_%28cropped%29.jpg),Spike Jonze,7.525,4,Annapurna Pictures,49566183,Her,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Neil_Marshall_2006.JPG/220px-Neil_Marshall_2006.JPG),Neil Marshall,6.15,4,Celador Films,49558379,The Descent,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Luis_Mandoki.png/220px-Luis_Mandoki.png),Luis Mandoki,6.15,4,Columbia Pictures,49031997,When a Man Loves a Woman,6.6
+![](NA),Randal Kleiser,6.166666666666667,3,Walt Disney Pictures,49020225,Flight of the Navigator,6.9
+![](NA),Irwin Winkler,6.466666666666667,3,Columbia Pictures,47896889,Life as a House,7.5
+![](NA),Richard Loncraine,6.5,3,Mayfair Entertainment International,46181944,Richard III,7.4
+![](NA),Mark L. Lester,6.166666666666667,3,Columbia Pictures,45712091,Commando,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Marielle_Heller_-_Maryland_Film_Festival_-_2016_%2830354425543%29_%28cropped%29.jpg/220px-Marielle_Heller_-_Maryland_Film_Festival_-_2016_%2830354425543%29_%28cropped%29.jpg),Marielle Heller,7.1,3,Archer Gray,44978171,A Beautiful Day in the Neighborhood,7.3
+![](NA),Stephen Hopkins,6.2875,8,Constellation Entertainment,44731387,Race,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jane_Campion_DNZM_%28cropped%29.jpg/220px-Jane_Campion_DNZM_%28cropped%29.jpg),Jane Campion,6.65,4,CiBy 2000,44518589,The Piano,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gina_Prince-Bythewood_by_Gage_Skidmore_%28cropped%29.jpg/220px-Gina_Prince-Bythewood_by_Gage_Skidmore_%28cropped%29.jpg),Gina Prince-Bythewood,7.133333333333334,3,40 Acres & A Mule Filmworks,44299282,The Secret Life of Bees,7.3
+![](NA),Steve Pink,5.966666666666667,3,Metro-Goldwyn-Mayer (MGM),43485126,Accepted,6.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Thomas_Vinterberg_Berlinale_2010_%28cropped%29.jpg/220px-Thomas_Vinterberg_Berlinale_2010_%28cropped%29.jpg),Thomas Vinterberg,7.833333333333333,3,Danmarks Radio (DR),42631029,The Hunt,8.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/BillBarrettaBrianHenson1982.jpg/220px-BillBarrettaBrianHenson1982.jpg),Brian Henson,6.7,3,Walt Disney Pictures,42408225,The Muppet Christmas Carol,7.7
+![](NA),Brad Anderson,6.48,5,Filmax Group,41485731,The Machinist,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tom_Brady_2021.png/220px-Tom_Brady_2021.png),Tom Brady,4.333333333333333,3,Columbia Pictures,40709101,The Hot Chick,5.5
+![](NA),Greg McLean,6.166666666666667,3,Australian Film Finance Corporation (AFFC),40611352,Wolf Creek,6.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Takeshi_Kitano_2017.jpg/220px-Takeshi_Kitano_2017.jpg),Takeshi Kitano,7.4799999999999995,5,Bandai Visual Company,40408775,Fireworks,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Julian_Schnabel_%28Hamptons_International_Film_Festival_2010%29.jpg/220px-Julian_Schnabel_%28Hamptons_International_Film_Festival_2010%29.jpg),Julian Schnabel,7.25,4,CBS Films,39566002,The Diving Bell and the Butterfly,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Craig_Gillespie_%28cropped%29.jpg/220px-Craig_Gillespie_%28cropped%29.jpg),Craig Gillespie,7,5,Walt Disney Pictures,38818112,"I, Tonya",7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Michael_Haneke_2009.jpg/220px-Michael_Haneke_2009.jpg),Michael Haneke,7.383333333333333,6,Les Films du Losange,38082130,Amour,7.9
+![](NA),David Mackenzie,6.86,5,BBC Films,38036100,Hell or High Water,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mike_Leigh.jpg/220px-Mike_Leigh.jpg),Mike Leigh,7.56,5,Channel Four Films,37859616,Secrets & Lies,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Peter_Bogdanovich%2C_director.jpg/220px-Peter_Bogdanovich%2C_director.jpg),Peter Bogdanovich,6.933333333333334,3,Lagniappe Films,36545161,Noises Off...,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Todd_Haynes_MFF_2023.jpg/220px-Todd_Haynes_MFF_2023.jpg),Todd Haynes,7.140000000000001,5,American Playhouse Theatrical Films,36358624,Far from Heaven,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Emilio_Estevez_and_Martin_Sheen_%28cropped_to_Emilio%29.jpg/220px-Emilio_Estevez_and_Martin_Sheen_%28cropped_to_Emilio%29.jpg),Emilio Estevez,6.8,3,Epic Productions,36315276,The Way,7.4
+![](NA),Sean McNamara,4.366666666666667,3,Avi Arad & Associates,35509906,Soul Surfer,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Neil_LaBute_2010_photo_cropped.jpg/220px-Neil_LaBute_2010_photo_cropped.jpg),Neil LaBute,5.985714285714286,7,Screen Gems,35298245,In the Company of Men,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/4.29.18PaulMichaelGlaserByLuigiNovi1.jpg/220px-4.29.18PaulMichaelGlaserByLuigiNovi1.jpg),Paul Michael Glaser,5.533333333333333,3,Interscope Communications,35164884,The Cutting Edge,6.9
+![](NA),Mark Herman,7.333333333333333,3,Miramax,35105085,The Boy in the Striped Pajamas,7.8
+![](NA),Ted Demme,7.1,4,Apostle,34794516,Blow,7.6
+![](NA),John Stockwell,5.8500000000000005,4,Columbia Pictures,34655876,Crazy/Beautiful,6.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pawel_Pawlikowski_%28cropped%29.jpg/220px-Pawel_Pawlikowski_%28cropped%29.jpg),Pawel Pawlikowski,7.233333333333333,3,Opus Film,34266863,Cold War,7.6
+![](NA),James Gray,6.65,6,2929 Productions,34140140,Two Lovers,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Maniac_UK_premiere_%28Fukunaga%29.jpg/220px-Maniac_UK_premiere_%28Fukunaga%29.jpg),Cary Joji Fukunaga,7.533333333333333,3,Focus Features,33904109,Beasts of No Nation,7.7
+![](NA),Mike Binder,6.933333333333334,3,BlackWhite,31313843,Reign Over Me,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Julie_Taymor.jpg/220px-Julie_Taymor.jpg),Julie Taymor,7.266666666666667,3,Clear Blue Sky Productions,31183915,Frida,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dennie_Gordon_on_set.jpg/220px-Dennie_Gordon_on_set.jpg),Dennie Gordon,5.6,3,Warner Bros.,30309660,Joe Dirt,6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Walter_Hill_1137_%28cropped%29.jpg/220px-Walter_Hill_1137_%28cropped%29.jpg),Walter Hill,6.1,8,A Band Apart,30174226,Crossroads,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/James_Ponsoldt_at_the_premiere_of_Sorry_for_Your_Loss_at_Toronto_International_Film_Festival_-_Edited.png/220px-James_Ponsoldt_at_the_premiere_of_Sorry_for_Your_Loss_at_Toronto_International_Film_Festival_-_Edited.png),James Ponsoldt,6.566666666666666,3,1978 Films,30147981,The End of the Tour,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MN_main.jpg/200px-MN_main.jpg),Mira Nair,6.833333333333334,3,Cine Mosaic,29427117,Monsoon Wedding,7.4
+![](NA),John Flynn,6.2,3,Admire Productions Ltd.,28125102,Lock Up,6.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Superpower_%282023%29-60523_%28cropped%29.jpg/220px-Superpower_%282023%29-60523_%28cropped%29.jpg),Sean Penn,7.066666666666666,3,Miramax,27964165,Into the Wild,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HarmonyKorine07TIFF.jpg/220px-HarmonyKorine07TIFF.jpg),Harmony Korine,5.833333333333333,3,Fine Line Features,25541614,Gummo,6.7
+![](NA),Brian Gibson,6.233333333333333,3,Columbia Pictures,24852346,What's Love Got to Do with It,7.3
+![](NA),Julian Jarrold,6.933333333333334,3,Ecosse Films,24309131,Kinky Boots,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/George_Romero%2C_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg/220px-George_Romero%2C_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg),George A. Romero,6.08,5,Orion Pictures,23915948,Day of the Dead,7.1
+![](NA),Robert Mandel,6.533333333333333,3,Dinamo Entertainment,22136958,School Ties,6.9
+![](NA),Ernest R. Dickerson,6.45,4,Universal Pictures,21175236,Juice,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Hillcoat.jpg/220px-John_Hillcoat.jpg),John Hillcoat,7.025,4,Dimension Films,20270427,The Proposition,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Miike_Takashi_from_%22Lumberjack_the_Monster%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853348089341%29_%28cropped%29.jpg/220px-Miike_Takashi_from_%22Lumberjack_the_Monster%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853348089341%29_%28cropped%29.jpg),Takashi Miike,7.1,4,Omega Project,18590508,13 Assassins,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Andrew_Haigh_%28cropped%29.jpg/220px-Andrew_Haigh_%28cropped%29.jpg),Andrew Haigh,7.3,3,BFI Film Fund,18065836,Weekend,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ron_Underwood_Photo_by_Larissa_Block.jpg/220px-Ron_Underwood_Photo_by_Larissa_Block.jpg),Ron Underwood,6.08,5,Castle Rock Entertainment,17026425,Tremors,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Andre%C3%AF_Zviaguintsev-_2016_%28cropped%29.jpg/220px-Andre%C3%AF_Zviaguintsev-_2016_%28cropped%29.jpg),Andrey Zvyagintsev,7.733333333333333,3,Non-Stop Productions,16848466,The Return,8
+![](NA),John Crowley,6.866666666666666,3,Amazon Studios,16509991,Brooklyn,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Danny_Cannon_by_Gage_Skidmore.jpg/220px-Danny_Cannon_by_Gage_Skidmore.jpg),Danny Cannon,5.666666666666667,3,Columbia Pictures,16106466,Goal! The Dream Begins,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lukas_Moodysson.jpg/220px-Lukas_Moodysson.jpg),Lukas Moodysson,7.566666666666666,3,Memfis Film,15823226,Lilya 4-Ever,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Carl_Franklin_publicity_photo_from_Fantastic_Journey_cast%2C_1977_%28cropped%29.JPG/220px-Carl_Franklin_publicity_photo_from_Fantastic_Journey_cast%2C_1977_%28cropped%29.JPG),Carl Franklin,6.74,5,IRS Media,14578147,One False Move,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jeff_Nichols_in_2017.jpg/220px-Jeff_Nichols_in_2017.jpg),Jeff Nichols,7.1,4,Hydraulx,14052183,Take Shelter,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/CliveBarker.jpg/220px-CliveBarker.jpg),Clive Barker,6.533333333333333,3,Morgan Creek Entertainment,13731969,Hellraiser,7
+![](NA),J.C. Chandor,7,3,Before The Door Pictures,12638628,Margin Call,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Stephan_Elliott_in_2012.jpg/220px-Stephan_Elliott_in_2012.jpg),Stephan Elliott,6.4,3,Ambridge Film Partnership,12318900,"The Adventures of Priscilla, Queen of the Desert",7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MelBrooksApr10.jpg/220px-MelBrooksApr10.jpg),Mel Brooks,6.566666666666666,3,Brooksfilms,11931382,Spaceballs,7.1
+![](https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/John_Schlesinger.jpg/220px-John_Schlesinger.jpg),John Schlesinger,5.9,3,Hemdale,11370448,The Falcon and the Snowman,6.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jacques_Audiard_Cannes_2017.jpg/220px-Jacques_Audiard_Cannes_2017.jpg),Jacques Audiard,7.425,4,Why Not Productions,11218338,A Prophet,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/MJK32641_Agnieszka_Holland_%28Pokot%2C_Berlinale_2017%29_crop.jpg/220px-MJK32641_Agnieszka_Holland_%28Pokot%2C_Berlinale_2017%29_crop.jpg),Agnieszka Holland,7.133333333333333,3,Bayerischer Rundfunk (BR),11097224,Europa Europa,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ben_Wheatley_%28cropped%29.jpg/220px-Ben_Wheatley_%28cropped%29.jpg),Ben Wheatley,6.24,5,Film4,10678836,Sightseers,6.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kim_Ki-duk_at_the_69th_Venice_International_Film_Festival_%28cropped%29.jpg/220px-Kim_Ki-duk_at_the_69th_Venice_International_Film_Festival_%28cropped%29.jpg),Kim Ki-duk,7.666666666666667,3,Kim Ki-Duk Film,10373992,"Spring, Summer, Fall, Winter... and Spring",8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tony_Goldwyn_%2848996884641%29_%281%29.jpg/220px-Tony_Goldwyn_%2848996884641%29_%281%29.jpg),Tony Goldwyn,6.566666666666666,3,Fox 2000 Pictures,10146896,Conviction,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Joe_Dante_Photo_Op_Nightmare_Weekend_Richmond_2023.jpg/220px-Joe_Dante_Photo_Op_Nightmare_Weekend_Richmond_2023.jpg),Joe Dante,6.416666666666667,6,Warner Bros.,9548445,The 'Burbs,6.9
+![](NA),Andrew Fleming,6.183333333333334,6,Canal+ Droits Audiovisuels,9471981,Barefoot,6.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/MikeMills.jpg/220px-MikeMills.jpg),Mike Mills,7.033333333333333,3,A24,9465249,20th Century Women,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Fred_Schepisi.jpg/220px-Fred_Schepisi.jpg),Fred Schepisi,6.42,5,Columbia Pictures Industries,9417275,Six Degrees of Separation,6.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Peter_Landesman_Deauville_2013.jpg/220px-Peter_Landesman_Deauville_2013.jpg),Peter Landesman,6.633333333333334,3,Butler Pictures,9407883,Concussion,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Noah_Baumbach_on_Marriage_Story_scene.jpg/220px-Noah_Baumbach_on_Marriage_Story_scene.jpg),Noah Baumbach,6.8428571428571425,7,Scott Rudin Productions,8470479,Marriage Story,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Krzysztof_Kie%C5%9Blowski_Portrait_1994.jpg/220px-Krzysztof_Kie%C5%9Blowski_Portrait_1994.jpg),Krzysztof Kieslowski,7.85,4,MK2 Productions,8336281,Three Colors: Red,8.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kiarostami_Boroujerdi_%283%29%28Cropped%29.jpg/220px-Kiarostami_Boroujerdi_%283%29%28Cropped%29.jpg),Abbas Kiarostami,7.6,4,Abbas Kiarostami Productions,8310433,Close-Up,8.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Andrew_Dominik_%28cropped2%29.jpg/220px-Andrew_Dominik_%28cropped2%29.jpg),Andrew Dominik,6.966666666666667,3,Australian Film Finance Corporation (AFFC),8170712,The Assassination of Jesse James by the Coward Robert Ford,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/David_Lynch_Cannes_2017.jpg/200px-David_Lynch_Cannes_2017.jpg),David Lynch,7.5,6,Asymmetrical Productions,7591540,The Straight Story,8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Anders_Thomas_Jensen_%28cropped%29.jpg/220px-Anders_Thomas_Jensen_%28cropped%29.jpg),Anders Thomas Jensen,7.266666666666667,3,M&M Productions,7190832,Adam's Apples,7.8
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Toddsolondz.jpg/220px-Toddsolondz.jpg),Todd Solondz,7.15,4,Extra Large Pictures,6679661,Happiness,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/ZoneIntrestBFILFF121023_%287_of_31%29_%2853255110321%29_%28cropped%29_2.jpg/220px-ZoneIntrestBFILFF121023_%287_of_31%29_%2853255110321%29_%28cropped%29_2.jpg),Jonathan Glazer,6.6,3,Film4,6537558,Sexy Beast,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Stuber_Q%26A_-_Michael_Dowse_%2833510399418%29_%28cropped%29_%28cropped%29.jpg/220px-Stuber_Q%26A_-_Michael_Dowse_%2833510399418%29_%28cropped%29_%28cropped%29.jpg),Michael Dowse,6.68,5,No Trace Camping,5087520,It's All Gone Pete Tong,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Franck_Khalfoun.jpg/200px-Franck_Khalfoun.jpg),Franck Khalfoun,5.6,3,Dimension Films,4879512,Maniac,6.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sidney_Lumet_1970.jpg/220px-Sidney_Lumet_1970.jpg),Sidney Lumet,6.925,4,Capitol Films,4718739,Running on Empty,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/e/e0/Don_Coscarelli_presents_%22Phantasma%22_during_Nocturna_Fest_Madrid_2017.png),Don Coscarelli,6.633333333333334,3,M3 Alliance,4663985,Bubba Ho-Tep,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sally_Potter_Photo_Call_The_Party_Berlinale_2017_03_%28cropped%29.jpg/220px-Sally_Potter_Photo_Call_The_Party_Berlinale_2017_03_%28cropped%29.jpg),Sally Potter,6.566666666666666,3,Adventure Pictures,4375711,Orlando,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Akiva_Schaffer_by_Gage_Skidmore.jpg/220px-Akiva_Schaffer_by_Gage_Skidmore.jpg),Akiva Schaffer,6.366666666666667,3,Paramount Pictures,4301545,Hot Rod,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/SXSW-2024-alih-OB7A0780-Office_Space_Mike_Judge.jpg/220px-SXSW-2024-alih-OB7A0780-Office_Space_Mike_Judge.jpg),Mike Judge,6.8,3,Twentieth Century Fox,4172342,Office Space,7.7
+![](NA),Karyn Kusama,5.9,4,Annapurna Pictures,3813509,The Invitation,6.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gregg_Araki_Deauville_2014.jpg/220px-Gregg_Araki_Deauville_2014.jpg),Gregg Araki,6.32,5,Desperate Pictures,3101961,Mysterious Skin,7.6
+![](NA),John McNaughton,6.566666666666666,3,Maljack Productions,2746818,Henry: Portrait of a Serial Killer,7
+![](NA),Satoshi Kon,7.85,4,Madhouse,2225744,Perfect Blue,8
+![](NA),Adam Green,5.766666666666667,3,ArieScope Pictures,1908514,Frozen,6.1
+![](NA),John Curran,6.7,3,Millennium Films,1664772,The Painted Veil,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/John_Cameron_Mitchell.jpg/220px-John_Cameron_Mitchell.jpg),John Cameron Mitchell,7.033333333333333,3,Killer Films,1316499,Hedwig and the Angry Inch,7.7
+![](NA),Paul McGuigan,6.7,5,Davis Entertainment,1167310,Lucky Number Slevin,7.7
+![](NA),Douglas McGrath,6.966666666666667,3,Miramax,-427081,Nicholas Nickleby,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Christopher_Guest_2016.jpg/220px-Christopher_Guest_2016.jpg),Christopher Guest,6.86,5,Castle Rock Entertainment,-1473723,Waiting for Guffman,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Courtney_Solomon_by_Gage_Skidmore.jpg/220px-Courtney_Solomon_by_Gage_Skidmore.jpg),Courtney Solomon,4.4,3,After Dark Films,-1602737,An American Haunting,5.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Gordon%2C_Stuart_%282007%29.jpg/220px-Gordon%2C_Stuart_%282007%29.jpg),Stuart Gordon,6.6000000000000005,3,Empire Pictures,-3376445,Re-Animator,7.2
+![](NA),Nicholas Hytner,6.68,5,Twentieth Century Fox,-3636448,The Madness of King George,7.2
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bernardo_Bertolucci%2C_film_director.jpg/220px-Bernardo_Bertolucci%2C_film_director.jpg),Bernardo Bertolucci,6.88,5,Recorded Picture Company (RPC),-5158443,The Last Emperor,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/William_Friedkin%2C_Festival_de_Sitges_2017_%28cropped%29.jpg/220px-William_Friedkin%2C_Festival_de_Sitges_2017_%28cropped%29.jpg),William Friedkin,6.3,7,Paramount Pictures,-5247232,To Live and Die in L.A.,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gaspar_No%C3%A9_%282021%29.jpg/220px-Gaspar_No%C3%A9_%282021%29.jpg),Gaspar Noé,7.275,4,120 Films,-6710941,I Stand Alone,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Barbet_Schroeder_Cannes_2017.jpg/220px-Barbet_Schroeder_Cannes_2017.jpg),Barbet Schroeder,6.5,6,Columbia Pictures,-6853193,Barfly,7.2
+![](NA),Joachim Trier,7.066666666666666,3,Motlys,-6904870,"Oslo, August 31st",7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Michael_Winterbottom_2013.JPG/220px-Michael_Winterbottom_2013.JPG),Michael Winterbottom,6.28,5,Revolution Films,-7224869,24 Hour Party People,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Terry_Gilliam_%2832703418337%29_CROPPED.jpg/220px-Terry_Gilliam_%2832703418337%29_CROPPED.jpg),Terry Gilliam,6.877777777777778,9,Alacran Pictures,-7752616,Brazil,7.9
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Drake_Doremus.jpg/220px-Drake_Doremus.jpg),Drake Doremus,6.4,3,Freedom Media,-9812756,Like Crazy,6.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Atom_Egoyan_in_Stepanakert_%28cropped%29.jpg/220px-Atom_Egoyan_in_Stepanakert_%28cropped%29.jpg),Atom Egoyan,6.9799999999999995,5,Serendipity Point Films,-10134093,The Sweet Hereafter,7.5
+![](NA),Phil Joanou,6.775,4,Aaron Spelling Productions,-10331080,State of Grace,7.2
+![](NA),Richard Kelly,6.333333333333333,3,Pandora Cinema,-12309495,Donnie Darko,8
+![](https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Frankenheimer_-_Life_-_portrait.jpg/220px-Frankenheimer_-_Life_-_portrait.jpg),John Frankenheimer,5.866666666666666,3,Dimension Films,-13586989,Ronin,7.3
+![](NA),Wayne Kramer,6.966666666666667,3,ContentFilm,-13678650,Running Scared,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abel_Ferrara_Cannes_2017.jpg/220px-Abel_Ferrara_Cannes_2017.jpg),Abel Ferrara,6.7,3,Bad Lt. Productions,-14277740,Bad Lieutenant,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/David_Mamet_2_by_David_Shankbone.JPG/220px-David_Mamet_2_by_David_Shankbone.JPG),David Mamet,6.833333333333333,6,Filmhaus,-14566725,House of Games,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Portrait_of_Steven_Knight_by_Taylor_Rooke%2C_March_5th_2020.jpg/220px-Portrait_of_Steven_Knight_by_Taylor_Rooke%2C_March_5th_2020.jpg),Steven Knight,6.233333333333333,3,Blue Budgie Films Limited,-14783661,Locke,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Susanne_Bier_2011_%28cropped%29.jpg/220px-Susanne_Bier_2011_%28cropped%29.jpg),Susanne Bier,6.766666666666667,3,2929 Productions,-20683893,After the Wedding,7.7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hayfestival-2016-Bruce-Robinson-portrait.jpg/220px-Hayfestival-2016-Bruce-Robinson-portrait.jpg),Bruce Robinson,6.7,3,Cineplex Odeon Films,-21846204,Withnail & I,7.6
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gregor_Jordan_and_Simone_Kessell_2012_%28cropped%29_1.jpg/220px-Gregor_Jordan_and_Simone_Kessell_2012_%28cropped%29_1.jpg),Gregor Jordan,6.1,3,Australian Film Finance Corporation (AFFC),-23731626,Buffalo Soldiers,6.8
+![](NA),Fred Dekker,5.966666666666667,3,Orion Pictures,-23942434,The Monster Squad,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/John_Waters_2014_%28cropped%29.jpg/220px-John_Waters_2014_%28cropped%29.jpg),John Waters,6.333333333333333,6,Artic Productions LLC,-28082466,Hairspray,7
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Paul_Schrader_Montclair_Film_Festival_%28cropped%29.jpg/220px-Paul_Schrader_Montclair_Film_Festival_%28cropped%29.jpg),Paul Schrader,5.9399999999999995,5,Focus Puller Inc.,-29830817,First Reformed,7.1
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Emir_Kusturica_in_2016.jpg/220px-Emir_Kusturica_in_2016.jpg),Emir Kusturica,7.925,4,CiBy 2000,-32364924,Time of the Gypsies,8.2
+![](NA),Robert Benton,6.48,5,Capella International,-36191895,Nobody's Fool,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Regisseur_Richard_Attenborough%2C_Bestanddeelnr_928-0661.jpg/220px-Regisseur_Richard_Attenborough%2C_Bestanddeelnr_928-0661.jpg),Richard Attenborough,7.4,3,Carolco Pictures,-40764567,Chaplin,7.5
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/JohnDahlJun07.jpg/220px-JohnDahlJun07.jpg),John Dahl,6.9399999999999995,5,Miramax,-46822224,Rounders,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/RolandJoffe_OffPlusCamera.JPG/220px-RolandJoffe_OffPlusCamera.JPG),Roland Joffé,5.766666666666667,3,Allied Stars Ltd.,-48693894,The Mission,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bille_August_%28cropped%29.jpg/220px-Bille_August_%28cropped%29.jpg),Bille August,6.9,3,Constantin Film,-52265465,Les Misérables,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Rod_Lurie_crop.jpg/220px-Rod_Lurie_crop.jpg),Rod Lurie,6.725,4,Cinerenta Medienbeteiligungs KG,-66849759,Nothing But the Truth,7.2
+![](NA),Steven Zaillian,6.733333333333333,3,Columbia Pictures,-68572013,Searching for Bobby Fischer,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/JohnCarpenter2023.jpg/220px-JohnCarpenter2023.jpg),John Carpenter,6.322222222222222,9,Alive Films,-69210087,Big Trouble in Little China,7.3
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Milos_Forman.jpg/220px-Milos_Forman.jpg),Milos Forman,7.233333333333333,3,Columbia Pictures,-82133073,Man on the Moon,7.4
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/UweBollRampage3SHORTREVIEW1_%28cropped%29.jpg/220px-UweBollRampage3SHORTREVIEW1_%28cropped%29.jpg),Uwe Boll,3.14,5,Boll Kino Beteiligungs GmbH & Co. KG,-88593243,Postal,4.5
